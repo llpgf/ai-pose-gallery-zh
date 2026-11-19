@@ -48,11 +48,39 @@
 
 ---
 
-## 3. 統一 JSON Schema 與 4 個標準範例
+## 3. 朝向、左右手腳與視線規範（支援外部一鍵鏡像與視線熱插拔）
+
+為避免同一姿勢因「朝左／朝右」膨脹成 2 倍條目，同時讓下游工廠能一鍵翻轉左右並熱插拔視線，所有條目必須遵守以下 3 條規則：
+
+### 3.1 身體大朝向：只寫單邊基準 ＋ `default_facing`（絕不寫左右雙胞胎條目）
+- 每筆必帶：
+  - `"default_facing"`: 限填 `"left"` | `"right"` | `"front"` | `"back"` | `"three_quarter_left"` | `"three_quarter_right"`
+  - `"mirrorable"`: `true`（僅在極少數不可鏡像的特殊構圖設 `false`）
+- **不要為了朝左／朝右重複寫兩條**。側面與斜側雙人體位統一優先採用「承受方居左（`center.x < 0.50`）、施與方居右（`center.x > 0.50`）」的單邊基準；**`center.x` 與方向詞（`facing left` / `facing right`）必須嚴格一致**，絕不可座標放左邊、文字寫朝右。
+- 當使用者在外部點擊 `↔ 鏡像翻轉` 時，工廠程式會自動將每個槽位的 `center.x` 翻轉為 `1.0 - x`，並將 `left ↔ right` 相關詞彙確定性互換。
+
+### 3.2 左右手腳不對稱擺位：寫在姿勢庫裡，用標準可鏡像詞彙
+- 不對稱肢體（例如左手撐地、右手扶牆，左腿抬高、右腳著地）**必須直接寫死在姿勢庫對應槽位的 `tags` 與 `natural_en` 中**，以鎖定母圖連抽幾何；對稱動作則直接寫 `both hands ...` / `both legs ...`。
+- 務必使用明確、可程式鏡像互換的標準英文方位詞（`facing left`, `facing right`, `left hand ...`, `right hand ...`, `left arm ...`, `right arm ...`, `left leg ...`, `right leg ...`, `left knee ...`, `right foot ...`, `over left shoulder`），**禁止寫成模糊詞**（禁止 `one hand ... the other hand ...` 若該手具明確方向性、或 `this leg`）。
+
+### 3.3 臉部朝向與視線：姿勢庫寫預設，獨立列 tag 供外部熱插拔覆寫
+- 每個角色槽位請寫入該體位最自然的預設視線，且**必須當成獨立短 tag 放在該槽位 `tags` 中**（不要和四肢動作黏成一長句），優先使用以下標準詞集：
+  - `looking at viewer`（直視鏡頭）
+  - `looking at another`、`eye contact`（與對方對視）
+  - `looking back`、`looking back over shoulder`（回眸）
+  - `looking away`、`head turned away`（羞恥別過頭）
+  - `looking up`、`looking up at viewer`（仰視）
+  - `looking down`（低頭）
+  - `head tilted back`、`closed eyes`（仰頭／閉眼）
+- 當使用者在外部點選「視線熱插拔晶片」時，工廠會自動剝離這些標準視線 tag 並替換為指定視線，完全不破壞原本的身體骨架。
+
+---
+
+## 4. 統一 JSON Schema 與 4 個標準範例
 
 每個輸出檔為一個 **純 JSON Array**，每筆元素結構如下：
 
-### 範例 1：模式 A（後背位・真解耦骨架 ＋ 多配對分派）
+### 範例 1：模式 A（後背位・真解耦骨架 ＋ 多配對分派 ＋ 基準朝向與可鏡像左右手）
 ```json
 {
   "id": "pos_doggystyle_allfours_side",
@@ -61,6 +89,8 @@
   "title_zh": "四肢著地後背位・側面扶胯",
   "pattern": "geometry_dispatch",
   "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
   "camera_tags": ["full body", "side view", "from side"],
   "shared_pose_tags": ["doggystyle", "sex from behind"],
   "slots": {
@@ -69,21 +99,22 @@
       "requires": "any",
       "center": {"x": 0.40, "y": 0.58},
       "tags": [
-        "all fours", "arched back", "hips raised",
-        "hands braced on ground", "looking back over shoulder",
-        "target#grabbing hips"
+        "facing left", "all fours", "arched back", "hips raised",
+        "left hand braced flat", "right arm bent supporting chest",
+        "target#grabbing hips", "looking back over shoulder"
       ],
-      "natural_en": "On all fours facing left with deeply arched back and raised hips, palms planted for support while glancing back over the shoulder."
+      "natural_en": "On all fours facing left with deeply arched back and raised hips, left hand braced flat and right arm slightly bent for support while looking back over the left shoulder."
     },
     "giver": {
       "label_zh": "施與方（後方跪姿扶胯）",
       "requires": "penis_or_strapon_or_nonhuman",
       "center": {"x": 0.65, "y": 0.50},
       "tags": [
-        "kneeling", "behind", "leaning forward",
-        "source#grabbing hips", "hands on another's hips"
+        "facing left", "kneeling", "behind", "leaning forward",
+        "source#grabbing hips", "hands on another's hips",
+        "looking down"
       ],
-      "natural_en": "Kneeling directly behind, leaning forward over the partner's lower back while firmly gripping both hips."
+      "natural_en": "Kneeling directly behind on the right facing left, leaning forward over the partner's lower back while firmly gripping both hips and looking down."
     }
   },
   "pairing_tags": {
@@ -93,8 +124,8 @@
     "female_other":  {"base": ["sex", "vaginal", "interspecies"], "giver": ["source#mounting"]},
     "pov_part":      {"drop_slot": "giver", "base": ["pov", "pov hands", "pov crotch", "sex", "vaginal"]}
   },
-  "natural_en": "Full-body side view of a doggystyle pose: the receiver is on all fours on the left with arched back and raised hips looking back over the shoulder, while the giver kneels behind on the right leaning forward and gripping the receiver's hips.",
-  "prompt_zh": "側面全身後背位：承受方居左四肢著地大幅塌腰挺臀並回眸；施與方居右跪於身後前傾雙手緊扶其胯部。"
+  "natural_en": "Full-body side view of a doggystyle pose facing left: the receiver is on all fours on the left with arched back and raised hips looking back over the left shoulder, while the giver kneels behind on the right leaning forward and gripping the receiver's hips.",
+  "prompt_zh": "側面全身後背位（基準朝左）：承受方居左四肢著地大幅塌腰挺臀、左手平撐並向左肩回眸；施與方居右跪於身後前傾雙手緊扶其胯部。"
 }
 ```
 
@@ -107,6 +138,8 @@
   "title_zh": "仰躺張腿舔陰・低角度正面",
   "pattern": "organ_bound",
   "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
   "camera_tags": ["cowboy shot", "front view", "from below"],
   "shared_pose_tags": ["cunnilingus", "oral"],
   "slots": {
@@ -116,10 +149,10 @@
       "center": {"x": 0.50, "y": 0.40},
       "tags": [
         "lying", "on back", "spread legs", "knees bent",
-        "arched back", "head tilted back", "hand on another's head",
-        "target#cunnilingus"
+        "arched back", "left hand on another's head", "right hand gripping surface",
+        "target#cunnilingus", "head tilted back", "looking down"
       ],
-      "natural_en": "Lying back with legs spread wide and knees bent, back arching slightly with one hand resting on the partner's head."
+      "natural_en": "Lying back facing front with legs spread wide and knees bent, back arching slightly with the left hand resting on the partner's head and right hand gripping the surface."
     },
     "giver": {
       "label_zh": "施與方（腿間俯身舔舐）",
@@ -128,17 +161,17 @@
       "tags": [
         "kneeling", "between legs", "leaning forward",
         "tongue out", "licking", "hands on another's thighs",
-        "source#cunnilingus"
+        "source#cunnilingus", "looking up"
       ],
-      "natural_en": "Kneeling between the partner's parted thighs, leaning in closely while gripping both thighs."
+      "natural_en": "Kneeling between the partner's parted thighs, leaning in closely while gripping both thighs and looking up."
     }
   },
   "pairing_tags": {
     "female_male":   {"base": ["hetero"]},
     "female_female": {"base": ["yuri"]}
   },
-  "natural_en": "Low-angle front view of cunnilingus: the receiver lies back with spread legs resting a hand on the giver's head, while the giver kneels between the thighs holding them open.",
-  "prompt_zh": "低角度正面舔陰：承受方仰躺張腿微拱腰、手扶對方頭部；施與方跪於腿間俯身扶住大腿貼近舔舐（男女皆可擔任施與方）。"
+  "natural_en": "Low-angle front view of cunnilingus: the receiver lies back with spread legs resting the left hand on the giver's head, while the giver kneels between the thighs holding them open.",
+  "prompt_zh": "低角度正面舔陰：承受方仰躺張腿微拱腰、左手扶對方頭部右手抓撐；施與方跪於腿間俯身扶住大腿貼近舔舐（男女皆可擔任施與方）。"
 }
 ```
 
@@ -151,6 +184,8 @@
   "title_zh": "反綁仰躺震動棒・俯視全身",
   "pattern": "solo_or_pov",
   "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
   "camera_tags": ["full body", "from above", "high angle"],
   "shared_pose_tags": ["bondage", "rope", "tied up", "vibrator", "sex toy"],
   "slots": {
@@ -160,8 +195,8 @@
       "center": {"x": 0.50, "y": 0.52},
       "tags": [
         "lying", "on back", "bound wrists", "arms behind back",
-        "spread legs", "knees bent", "arched back", "head tilted back",
-        "looking up"
+        "spread legs", "knees bent", "arched back",
+        "head tilted back", "looking up"
       ],
       "natural_en": "Lying on her back with wrists bound behind her torso, knees bent and legs spread apart while arching her back upward."
     }
@@ -175,11 +210,11 @@
 ```
 
 ### 範例 4：多人組合（`group`・1女2男前後串燒 / 2女1男協力）
-- `slots` 依位置命名（如 `center_subject`, `front_partner`, `behind_partner` 或 `giver_left`, `giver_right`, `receiver`），`pairing_tags` 對應 `"mmf"` 或 `"ffm"`，每人標明不重疊的 `center` 座標與 `source#`/`target#`。
+- `slots` 依位置命名（如 `center_subject`, `front_partner`, `behind_partner` 或 `giver_left`, `giver_right`, `receiver`），`pairing_tags` 對應 `"mmf"` 或 `"ffm"`，每人標明不重疊的 `center` 座標、明確朝向詞與 `source#`/`target#`。
 
 ---
 
-## 4. 輸出目錄與 10 大分類配額（合計 140 條）
+## 5. 輸出目錄與 10 大分類配額（合計 140 條）
 
 請在 `/Volumes/SSD/ai-pose-gallery-zh/data/nsfw_library/` 依序建立以下 **10 個獨立 JSON 檔案**（每檔皆為純 JSON Array，禁止多餘註解與 Markdown 包裹）：
 
@@ -199,15 +234,16 @@
 
 ---
 
-## 5. 完成後自檢腳本（確認 JSON 結構、總數與零違規）
+## 6. 完成後自檢腳本（確認 JSON 結構、朝向欄位、總數與零違規）
 
-外部 AI 寫完 10 個 JSON 檔後，執行下方腳本驗證結構與禁詞零錯誤即可交付審核：
+外部 AI 寫完 10 個 JSON 檔後，執行下方腳本驗證結構、朝向欄位與禁詞零錯誤即可交付審核：
 
 ```bash
 python3 - <<'PY'
 import glob, json, re
 
 FILES = sorted(glob.glob("/Volumes/SSD/ai-pose-gallery-zh/data/nsfw_library/*.json"))
+VALID_FACING = {"left", "right", "front", "back", "three_quarter_left", "three_quarter_right"}
 BANNED = re.compile(
     r"(?<!\w)(anime|3d|sketch|monochrome|realistic|bikini|swimsuit|dress|uniform|skirt|shirt|"
     r"pants|jeans|shorts|jacket|coat|hoodie|sweater|lingerie|underwear|no underwear|stockings|"
@@ -230,6 +266,10 @@ for fp in FILES:
         if not eid or eid in ids:
             errors.append(f"{fp}: duplicate/empty id {eid!r}")
         ids.add(eid)
+        if r.get("default_facing") not in VALID_FACING:
+            errors.append(f"[{eid}] invalid/missing default_facing: {r.get('default_facing')!r}")
+        if not isinstance(r.get("mirrorable"), bool):
+            errors.append(f"[{eid}] missing/non-bool mirrorable")
         for t in r.get("camera_tags", []) + r.get("shared_pose_tags", []):
             if HARDCODED_COUNT.match(t.strip()):
                 errors.append(f"[{eid}] hardcoded count/gender in shared/camera tags: {t!r}")
@@ -239,6 +279,9 @@ for fp in FILES:
         if not isinstance(slots, dict) or not slots:
             errors.append(f"[{eid}] missing slots")
         for sname, s in slots.items():
+            c = s.get("center", {})
+            if not (isinstance(c, dict) and 0.0 <= float(c.get("x", -1)) <= 1.0 and 0.0 <= float(c.get("y", -1)) <= 1.0):
+                errors.append(f"[{eid}] slot {sname} invalid center: {c!r}")
             for t in s.get("tags", []):
                 if ROLE_PREFIX.match(t.strip()):
                     errors.append(f"[{eid}] slot {sname} has forbidden subject prefix: {t!r}")
