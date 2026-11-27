@@ -3149,6 +3149,71 @@
   "prompt_zh": "正面對稱巨足透視特寫：角色坐姿雙膝外張，雙腳內緣緊貼併攏推至畫面正下方極近前景，五趾齊張直面鏡頭。"
  },
  {
+  "id": "solo_soles_arched_opening_knees_apart_front",
+  "category": "01_solo_closeup",
+  "subcategory": "足部與腳底純展示",
+  "title_zh": "坐姿分膝拱足成洞・前景極近張趾雙腳底",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "front view",
+   "foot focus",
+   "foreshortening"
+  ],
+  "shared_pose_tags": [
+   "sitting",
+   "knees apart feet together",
+   "feet first",
+   "presenting foot",
+   "soles",
+   "arched soles",
+   "toes",
+   "spread toes"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（坐姿分膝＋雙足底相對微拱成洞口型大透視張趾）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "sitting",
+     "knees up",
+     "knees apart feet together",
+     "feet together",
+     "feet first",
+     "presenting foot",
+     "soles",
+     "arched soles",
+     "toes",
+     "spread toes",
+     "hands on own knees",
+     "looking at viewer"
+    ],
+    "natural_en": "Sitting facing forward with knees bent and spread wide apart, hands resting on her own knees, thrusting both feet forward into the lower foreground; the heels and lower inner edges meet while both soles arch and cup inward around an open hollow gap in the center with big toes flared upward and all toes fanned wide open toward the camera."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Symmetrical front extreme foreshortened close-up: seated with knees bent up and spread wide apart and hands resting on her own knees, both feet thrust forward toward the lens with arched soles meeting at the inner center to frame a central opening and upturned spread toes dominating the foreground.",
+  "prompt_zh": "正面巨足透視特寫：角色坐姿曲膝外張、雙手輕扶雙膝，雙腳推至前景極近距離，內緣於中央相靠、雙足弓微拱並以大腳趾上揚圍出中空洞口造型（而非整片貼合），五趾大幅張開直面鏡頭。"
+ },
+ {
   "id": "solo_armpit_arms_behind_head_closeup",
   "category": "01_solo_closeup",
   "subcategory": "腋下展示",
