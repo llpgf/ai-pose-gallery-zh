@@ -5,7 +5,7 @@
   "subcategory": "書桌與餐桌",
   "title_zh": "伏案後入・桌面支撐側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -185,7 +185,7 @@
   "subcategory": "書桌與餐桌",
   "title_zh": "仰躺桌緣・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -281,7 +281,7 @@
   "subcategory": "椅子與沙發",
   "title_zh": "沙發側臥・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -564,7 +564,7 @@
   "subcategory": "椅子與沙發",
   "title_zh": "沙發仰躺壓制・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -661,7 +661,7 @@
   "subcategory": "書桌與餐桌",
   "title_zh": "坐桌抬腿・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1232,7 +1232,7 @@
   "subcategory": "椅子與沙發",
   "title_zh": "反向跨坐椅子・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1515,7 +1515,7 @@
   "subcategory": "椅子與沙發",
   "title_zh": "沙發跪姿侍奉・側面全身",
   "pattern": "organ_bound",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [

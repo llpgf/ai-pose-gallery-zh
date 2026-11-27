@@ -411,16 +411,22 @@
   "subcategory": "足部與腳底純展示",
   "title_zh": "蹲姿雙足趾尖極近特寫",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "front",
   "mirrorable": true,
   "camera_tags": [
    "close-up",
-   "front view"
+   "from below",
+   "front view",
+   "foot focus",
+   "foreshortening"
   ],
   "shared_pose_tags": [
    "foot focus",
-   "toes"
+   "presenting foot",
+   "feet",
+   "toes",
+   "spread toes"
   ],
   "slots": {
    "subject": {
@@ -433,7 +439,10 @@
     "tags": [
      "squatting",
      "on floor",
-     "toes"
+     "feet",
+     "toes",
+     "spread toes",
+     "looking down"
     ],
     "natural_en": "Crouching low on the floor with both bare feet in the extreme foreground, the balls of the feet and toes pressed against the surface with heels lifted, toes spread and curled slightly, the rest of the body falling away behind the feet."
    }
@@ -990,7 +999,7 @@
   "subcategory": "撩人全身／半身展示",
   "title_zh": "側臥展現曲線",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "front",
   "mirrorable": true,
   "camera_tags": [
@@ -1134,12 +1143,13 @@
   "subcategory": "腋下展示",
   "title_zh": "趴臥抬臂・腋下展示",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "front",
   "mirrorable": true,
   "camera_tags": [
    "full body",
-   "front view"
+   "three-quarter view",
+   "from above"
   ],
   "shared_pose_tags": [
    "presenting armpit"
@@ -1174,8 +1184,8 @@
     ]
    }
   },
-  "natural_en": "Full-body front view of a woman lying prone with one arm raised up beside her head, presenting her armpit to the viewer.",
-  "prompt_zh": "正面全身俯趴展示：主體俯臥中央，單臂高舉貼近頭側露出腋下，微拱背並看向鏡頭。"
+  "natural_en": "Full-body three-quarter high-angle view of a woman lying prone with one arm raised up beside her head, presenting her armpit to the viewer.",
+  "prompt_zh": "斜側俯視全身俯趴展示：主體俯臥中央，單臂高舉貼近頭側露出腋下，微拱背並看向鏡頭。"
  },
  {
   "id": "pos_solo_sitting_back_looking_back",
@@ -1578,7 +1588,7 @@
   "default_facing": "back",
   "mirrorable": true,
   "camera_tags": [
-   "close-up",
+   "cowboy shot",
    "from behind"
   ],
   "shared_pose_tags": [
@@ -1594,7 +1604,7 @@
      "y": 0.5
     },
     "tags": [
-     "crouching",
+     "squatting",
      "arched back",
      "ass up",
      "looking back"
@@ -1642,7 +1652,8 @@
      "y": 0.5
     },
     "tags": [
-     "crouching",
+     "squatting",
+     "m legs",
      "spread legs",
      "knees up",
      "arched back",
@@ -1722,16 +1733,18 @@
   "subcategory": "口舌特寫",
   "title_zh": "仰躺後仰・口舌特寫",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "1:1",
   "default_facing": "front",
   "mirrorable": true,
   "camera_tags": [
    "close-up",
-   "front view"
+   "portrait",
+   "from above"
   ],
   "shared_pose_tags": [
-   "tongue out",
-   "mouth focus"
+   "face focus",
+   "mouth focus",
+   "tongue out"
   ],
   "slots": {
    "subject": {
@@ -1744,9 +1757,10 @@
     "tags": [
      "lying",
      "on back",
-     "head back",
+     "head tilt",
      "tongue out",
-     "open mouth"
+     "open mouth",
+     "looking at viewer"
     ],
     "natural_en": "Lying on her back in the center of the frame with her head tilted back, mouth open and tongue out toward the camera."
    }

@@ -5,7 +5,7 @@
   "subcategory": "後背位",
   "title_zh": "四肢著地後背位・側面扶胯",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -97,7 +97,7 @@
   "subcategory": "正常位",
   "title_zh": "正常位・抬腿壓肩・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -376,7 +376,7 @@
   "subcategory": "後背位",
   "title_zh": "前臂撐地後背位・斜側俯視單膝扶胯",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -471,7 +471,7 @@
   "subcategory": "後背位",
   "title_zh": "俯趴壓背後背位・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -663,7 +663,7 @@
   "subcategory": "後背位",
   "title_zh": "拉臂後仰後背位・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -758,7 +758,7 @@
   "subcategory": "後背位",
   "title_zh": "床緣趴伏後背位・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -948,7 +948,7 @@
   "subcategory": "正常位",
   "title_zh": "正常位・十指交扣・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1044,7 +1044,7 @@
   "subcategory": "正常位",
   "title_zh": "正常位・深壓折疊・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1141,7 +1141,7 @@
   "subcategory": "正常位",
   "title_zh": "正常位・單腿高舉・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1236,7 +1236,7 @@
   "subcategory": "正常位",
   "title_zh": "正常位・床邊懸腿・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1333,7 +1333,7 @@
   "subcategory": "騎乘位",
   "title_zh": "騎乘位・正向後仰・側斜",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "three_quarter_left",
   "mirrorable": true,
   "camera_tags": [
@@ -1422,7 +1422,7 @@
   "subcategory": "騎乘位",
   "title_zh": "騎乘位・反向背騎・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1521,7 +1521,7 @@
   "subcategory": "騎乘位",
   "title_zh": "騎乘位・蹲姿・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1610,7 +1610,7 @@
   "subcategory": "騎乘位",
   "title_zh": "騎乘位・前傾貼胸・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1708,7 +1708,7 @@
   "subcategory": "騎乘位",
   "title_zh": "騎乘位・後仰挺腰・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2093,7 +2093,7 @@
   "subcategory": "側臥與坐位",
   "title_zh": "湯匙側臥・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2188,7 +2188,7 @@
   "subcategory": "側臥與坐位",
   "title_zh": "面對面坐大腿・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2284,7 +2284,7 @@
   "subcategory": "側臥與坐位",
   "title_zh": "背向坐懷・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2379,7 +2379,7 @@
   "subcategory": "高辨識度進階幾何",
   "title_zh": "俯壓平趴 prone bone・雙人疊合平躺・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2475,7 +2475,7 @@
   "subcategory": "高辨識度進階幾何",
   "title_zh": "腿鎖纏腰 leg lock・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2619,7 +2619,7 @@
    }
   },
   "title_zh": "深折疊壓制 mating press・蹲姿上位全身",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "camera_tags": [
    "full body",
@@ -2681,7 +2681,7 @@
   "subcategory": "高辨識度進階幾何",
   "title_zh": "抬腿深壓 folded・側臥屈膝全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2777,7 +2777,7 @@
   "subcategory": "高辨識度進階幾何",
   "title_zh": "正向直立跨坐 upright straddle・跪坐對面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2871,7 +2871,7 @@
   "subcategory": "高辨識度進階幾何",
   "title_zh": "反向直立跨坐 reverse upright straddle・跪立背向全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -3060,7 +3060,7 @@
   "subcategory": "後背位",
   "title_zh": "拉髮提腰後背位・斜側荷蘭角",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "three_quarter_left",
   "mirrorable": true,
   "camera_tags": [
@@ -3446,7 +3446,7 @@
   "subcategory": "正常位",
   "title_zh": "正常位・單腿高舉・高角斜側",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "three_quarter_left",
   "mirrorable": true,
   "camera_tags": [

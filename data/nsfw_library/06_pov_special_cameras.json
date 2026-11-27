@@ -290,7 +290,7 @@
   "subcategory": "偷窺遮擋與敘事前景",
   "title_zh": "門縫窺見俯趴後入・門框前景・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -436,7 +436,7 @@
   "subcategory": "偷窺遮擋與敘事前景",
   "title_zh": "桌下偷窺・四肢著地探頭・側面全身",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -481,7 +481,7 @@
   "subcategory": "偷窺遮擋與敘事前景",
   "title_zh": "高處俯拍・俯趴後入・俯視全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -664,7 +664,7 @@
   "subcategory": "偷窺遮擋與敘事前景",
   "title_zh": "第三者背影前景・跨坐仰望・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [

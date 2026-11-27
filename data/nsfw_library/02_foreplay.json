@@ -69,7 +69,7 @@
   "subcategory": "背後環抱揉胸",
   "title_zh": "坐姿背後環抱揉胸・側面",
   "pattern": "organ_bound",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -133,7 +133,7 @@
   "subcategory": "背後環抱揉胸",
   "title_zh": "坐姿背後環抱揉胸・後方跪姿環抱",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -340,7 +340,7 @@
   "subcategory": "壁咚與壓制親吻",
   "title_zh": "坐地靠牆壁咚親吻・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -411,7 +411,7 @@
   "subcategory": "耳頸親吻與撫摸腰腿",
   "title_zh": "坐姿耳頸親吻撫腰腿・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -564,7 +564,7 @@
   "subcategory": "耳頸親吻與撫摸腰腿",
   "title_zh": "面對面側躺耳頸親吻撫腰腿・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -705,7 +705,7 @@
   "subcategory": "抓手腕／抬下巴／拉手臂等拉扯互動",
   "title_zh": "坐姿拉臂抬下巴・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -775,7 +775,7 @@
   "subcategory": "抓手腕／抬下巴／拉手臂等拉扯互動",
   "title_zh": "跪姿面對面抓腕抬下巴・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -844,7 +844,7 @@
   "subcategory": "指交與下體愛撫",
   "title_zh": "仰躺張腿指交・側面",
   "pattern": "organ_bound",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -909,7 +909,7 @@
   "subcategory": "指交與下體愛撫",
   "title_zh": "坐姿張腿面對面指交・側面",
   "pattern": "organ_bound",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -974,7 +974,7 @@
   "subcategory": "指交與下體愛撫",
   "title_zh": "四肢著地背後指交・側面",
   "pattern": "organ_bound",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -1122,7 +1122,7 @@
   "subcategory": "進入前臨界／引導定位／吻後停頓過渡格",
   "title_zh": "仰躺張腿引導定位・側面",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2234,7 +2234,7 @@
   "subcategory": "耳頸親吻與撫摸腰腿",
   "title_zh": "坐姿低頭吸吮胸部・側面全身",
   "pattern": "geometry_dispatch",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -2458,9 +2458,10 @@
    "three-quarter view"
   ],
   "shared_pose_tags": [
+   "side by side",
+   "sitting",
    "groping",
-   "thigh grab",
-   "sitting"
+   "thigh grab"
   ],
   "slots": {
    "receiver": {
@@ -2486,7 +2487,7 @@
     },
     "tags": [
      "sitting",
-     "leaning close",
+     "leaning to the side",
      "hand on another's thigh",
      "looking at another"
     ],
@@ -2512,7 +2513,10 @@
    }
   },
   "natural_en": "Three-quarter view of two adults sitting side by side as one leans close and slides a hand up the other's inner thigh.",
-  "prompt_zh": "斜側橫構圖全身：兩人並排緊貼而坐，攻方側身湊近耳畔，一手探向受方大腿內側愛撫。"
+  "prompt_zh": "斜側橫構圖全身：兩人並排緊貼而坐，攻方側身湊近耳畔，一手探向受方大腿內側愛撫。",
+  "scene_tags": [
+   "on couch"
+  ]
  },
  {
   "id": "pos_foreplay_spread_thighs_kneeling_hover_front",

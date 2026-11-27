@@ -191,7 +191,7 @@
   "subcategory": "進階拘束與受困情境",
   "title_zh": "多點拘束・四肢著地繩縛側面",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -599,7 +599,7 @@
   "subcategory": "進階拘束與受困情境",
   "title_zh": "受困情境・蝦縛俯趴側面",
   "pattern": "solo_or_pov",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
@@ -647,7 +647,7 @@
   "subcategory": "感官與牽引調教",
   "title_zh": "項圈牽引・四肢著地側面",
   "pattern": "organ_bound",
-  "default_canvas": "3:4",
+  "default_canvas": "4:3",
   "default_facing": "left",
   "mirrorable": true,
   "camera_tags": [
