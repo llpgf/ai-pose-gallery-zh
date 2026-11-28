@@ -3479,5 +3479,191 @@
   },
   "natural_en": "Symmetrical rear low-angle 3:4 aftermath on a bed: facing away on all fours with both soles in the lower foreground and both gaping holes overflowing into a steaming pool of cum on the sheets.",
   "prompt_zh": "正後方對稱低角事後跪趴背影（不回眸）：雙腳底分立前景左右，正中高翹微汗雙臀與雙穴同時擴張湧精、滴落床單匯成冒熱氣白濁水窪。"
+ },
+ {
+  "id": "climax_after_fellatio_ahegao_penis_on_cheek_pov",
+  "category": "10_climax_afterglow",
+  "subcategory": "口爆與顏射餘韻",
+  "title_zh": "POV 跪姿癱坐阿黑顏・射後陰莖貼頰滿口濃精",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "from above",
+   "high angle",
+   "pov",
+   "close-up"
+  ],
+  "shared_pose_tags": [
+   "after fellatio",
+   "penis on face",
+   "cum in mouth",
+   "cum on face",
+   "ahegao"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（跪姿雙手撐地癱軟阿黑顏、滿口濃精，射後陰莖貼靠臉頰）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "kneeling",
+     "hands on floor",
+     "looking up",
+     "ahegao",
+     "rolled eyes",
+     "open mouth",
+     "tongue out",
+     "penis on face",
+     "cum in mouth",
+     "cum on face",
+     "cumdrip",
+     "tears",
+     "sweat",
+     "exhausted"
+    ],
+    "natural_en": "High-angle POV looking down at an exhausted kneeling woman braced on the floor in dazed ahegao with mouth full of overflowing semen while a slick post-cum penis rests heavily against her flushed cheek."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "penis",
+     "penis on face",
+     "after fellatio"
+    ]
+   }
+  },
+  "natural_en": "High-angle POV of a slumped kneeling woman in tearful dazed ahegao with cum overflowing from her mouth and a post-climax penis resting against her cheek.",
+  "prompt_zh": "高角俯視 POV 口爆餘韻：跪姿撐地癱軟翻眼阿黑顏、滿口濃精溢出，射後濕亮陰莖直接貼靠潮紅臉頰。"
+ },
+ {
+  "id": "climax_after_fellatio_slumped_floor_high_angle",
+  "category": "10_climax_afterglow",
+  "subcategory": "口爆與顏射餘韻",
+  "title_zh": "高角俯視癱坐地板張膝・滿臉滿身精液失神",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "from above",
+   "high angle",
+   "medium shot"
+  ],
+  "shared_pose_tags": [
+   "after fellatio",
+   "exhausted",
+   "cum on face",
+   "cum on body",
+   "cum pool"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（雙膝微張癱坐地板、滿臉滿身與地面積滿濃精失神）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.54
+    },
+    "tags": [
+     "sitting",
+     "on floor",
+     "w-sitting",
+     "legs apart",
+     "slumped",
+     "empty eyes",
+     "open mouth",
+     "cum on face",
+     "cum on breasts",
+     "cum on body",
+     "cum on legs",
+     "cum pool",
+     "sweat",
+     "tears",
+     "exhausted"
+    ],
+    "natural_en": "High-angle medium shot looking down at an utterly spent woman slumped weakly on the floor with knees parted, staring blankly with glistening cum covering her face, chest, thighs, and pooling on the floor."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "High-angle aftermath shot of an exhausted woman slumped on the floor with knees parted, face and body drenched in semen with puddles around her.",
+  "prompt_zh": "高角俯視口交事後癱坐：雙膝微張失神癱軟於木地板，滿臉滿身與大腿沾滿濃精、身周積成白濁水窪。"
+ },
+ {
+  "id": "climax_after_sitting_kneel_rear_juice_drip",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後餘韻與流液",
+  "title_zh": "低角後視坐跪前傾裸臀・愛液微滴餘韻",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "from behind",
+   "from below",
+   "low angle",
+   "close-up"
+  ],
+  "shared_pose_tags": [
+   "ass focus",
+   "kneeling",
+   "pussy juice",
+   "sweat",
+   "afterglow"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（背對鏡頭坐跪前傾、裙擺掀分露出微汗裸臀與滴落愛液）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "kneeling",
+     "leaning forward",
+     "facing away",
+     "bare ass",
+     "ass",
+     "pussy juice",
+     "pussy juice trail",
+     "sweat",
+     "glistening skin",
+     "exhausted"
+    ],
+    "natural_en": "Low-angle rear close-up of an exhausted woman kneeling and leaning slightly forward facing away, garments parted to reveal her glistening sweaty bare buttocks with clear love juice trickling down her inner thighs."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle rear close-up of a woman kneeling forward facing away with sweaty glistening bare buttocks and clear love juice dripping down between her thighs.",
+  "prompt_zh": "低角後視坐跪餘韻（無擴張）：背對鏡頭跪伏前傾，衣擺分開露出微汗光澤裸臀與順著腿根滴落的晶瑩愛液。"
  }
 ]

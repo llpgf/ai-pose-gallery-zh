@@ -6328,5 +6328,407 @@
   },
   "natural_en": "Tight side-profile 3:4 upper-body close-up: cupping her own glistening breast from below while extending her tongue to lick the tip of the standing partner's penis.",
   "prompt_zh": "側面近景單手托胸舔龜頭：侍奉方居右純側臉半瞇眼、單手從下方托捧飽滿微汗胸乳，伸舌輕舔前方站立男方沾精龜頭尖端。"
+ },
+ {
+  "id": "pos_foot_worship_licking_toes_closeup_low",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "足部侍奉與崇拜",
+  "title_zh": "近景捧足舔舐腳趾與足底・低角特寫",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "from below",
+   "low angle"
+  ],
+  "shared_pose_tags": [
+   "foot worship",
+   "foot focus",
+   "licking foot",
+   "soles",
+   "toes",
+   "saliva"
+  ],
+  "slots": {
+   "giver": {
+    "label_zh": "賜足方（坐椅伸出雙足與腳趾）",
+    "requires": "female",
+    "center": {
+     "x": 0.44,
+     "y": 0.4
+    },
+    "tags": [
+     "sitting",
+     "presenting foot",
+     "soles",
+     "toes",
+     "legs up"
+    ],
+    "natural_en": "Seated above extending her stockinged foot and toes downward toward the partner's mouth."
+   },
+   "receiver": {
+    "label_zh": "舔足方（捧住腳踝仰頭伸舌舔舐腳趾足底）",
+    "requires": "any",
+    "center": {
+     "x": 0.58,
+     "y": 0.68
+    },
+    "tags": [
+     "kneeling",
+     "holding another's foot",
+     "licking foot",
+     "tongue out",
+     "saliva trail",
+     "looking up"
+    ],
+    "natural_en": "Kneeling below cupping the partner's foot with both hands, tilting head up to lick the toes and arch with glistening saliva."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "foot worship"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "foot worship"
+    ]
+   }
+  },
+  "natural_en": "Low-angle close-up of a kneeling partner cupping a seated woman's foot and licking her toes and sole with wet saliva sheen.",
+  "prompt_zh": "低角近景捧足舔趾：跪姿雙手托握坐椅賜足方的腳踝，仰首伸舌舔舐腳趾與足弓並泛起唾液水光。"
+ },
+ {
+  "id": "pos_foot_grip_heel_low_closeup",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "足交與足部侍奉",
+  "title_zh": "椅下低角單手托握白絲腳跟・無頭過渡特寫",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "from below",
+   "low angle"
+  ],
+  "shared_pose_tags": [
+   "foot focus",
+   "holding another's foot",
+   "presenting foot"
+  ],
+  "slots": {
+   "giver": {
+    "label_zh": "賜足方（坐椅抬起單腳露出腳跟與腳底）",
+    "requires": "female",
+    "center": {
+     "x": 0.48,
+     "y": 0.42
+    },
+    "tags": [
+     "sitting",
+     "raised leg",
+     "presenting foot",
+     "soles",
+     "head out of frame"
+    ],
+    "natural_en": "Seated high above with one leg lifted forward, presenting her heel and sole while her head stays out of frame."
+   },
+   "receiver": {
+    "label_zh": "捧足方（由下方伸手穩握對方的腳跟與腳踝）",
+    "requires": "any",
+    "center": {
+     "x": 0.56,
+     "y": 0.72
+    },
+    "tags": [
+     "reaching up",
+     "holding another's foot",
+     "hand on foot",
+     "head out of frame"
+    ],
+    "natural_en": "Reaching up from below the chair to firmly cup and grip the seated partner's raised heel and ankle."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "foot focus"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "foot focus"
+    ]
+   }
+  },
+  "natural_en": "Headless low-angle close-up of a partner's hand reaching from beneath a chair to cup and grip a seated woman's raised heel.",
+  "prompt_zh": "無頭低角局部過渡特寫：由椅下仰視對方伸手自下托握坐姿女角抬起的腳跟與腳踝。"
+ },
+ {
+  "id": "pov_foot_grab_crossed_leg_low_closeup",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "足交與足部侍奉",
+  "title_zh": "POV 低角無頭翹腿伸足被手抓握・過渡近景",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "from below",
+   "pov",
+   "pov hands"
+  ],
+  "shared_pose_tags": [
+   "foot focus",
+   "crossed legs",
+   "grabbing foot"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（坐姿翹腿向前伸足，被第一人稱手掌握住腳掌）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "sitting",
+     "crossed legs",
+     "presenting foot",
+     "toes",
+     "soles",
+     "head out of frame"
+    ],
+    "natural_en": "Headless low-angle POV shot cropped below the collarbones as a seated woman crosses one leg over the other, her extended taut foot gripped from the front by the viewer's hand."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "pov hands",
+     "foot focus"
+    ]
+   }
+  },
+  "natural_en": "Headless low-angle POV close-up of a seated woman's crossed leg and extended foot being firmly gripped by the viewer's hand.",
+  "prompt_zh": "無頭低角 POV 局部近景：鎖骨以下裁切，坐姿翹腿伸出繃緊的腳掌被前景第一人稱手掌握住。"
+ },
+ {
+  "id": "pov_foot_invite_grab_high_seat_low",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "足交與足部侍奉",
+  "title_zh": "POV 低角仰視高坐張腿・手握腳踝邀請足交",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "medium shot",
+   "from below",
+   "low angle",
+   "pov",
+   "pov hands"
+  ],
+  "shared_pose_tags": [
+   "foot focus",
+   "spread legs",
+   "presenting foot"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（高坐木椅微張雙腿低看鏡頭、單足被第一人稱手掌托握）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.46
+    },
+    "tags": [
+     "sitting",
+     "spread legs",
+     "presenting foot",
+     "soles",
+     "looking down",
+     "looking at viewer",
+     "blush"
+    ],
+    "natural_en": "Low-angle POV looking up at a blushing woman seated high on a chair with legs parted, one raised foot held gently by the viewer's foreground hand inviting her to use her feet."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "pov hands",
+     "foot focus"
+    ]
+   }
+  },
+  "natural_en": "Low-angle POV shot looking up at a seated woman with parted legs as the viewer's hand grips her raised foot in invitation.",
+  "prompt_zh": "低角仰視 POV 互動：高坐椅上微張雙腿垂眼羞紅望向鏡頭，前景第一人稱手掌握住其腳踝邀她以足侍奉。"
+ },
+ {
+  "id": "pos_oral_hold_penis_hesitate_side_closeup",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "口交與手交前戲",
+  "title_zh": "側面近景跪姿單手握莖近胸・猶豫凝視龜頭",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "side view",
+   "from side"
+  ],
+  "shared_pose_tags": [
+   "handjob",
+   "penis",
+   "erection",
+   "looking at penis"
+  ],
+  "slots": {
+   "giver": {
+    "label_zh": "握莖方（側面跪姿單手握住巨根貼近胸前、臉紅猶豫斜視龜頭）",
+    "requires": "female",
+    "center": {
+     "x": 0.36,
+     "y": 0.52
+    },
+    "tags": [
+     "kneeling",
+     "holding another's penis",
+     "looking at penis",
+     "closed mouth",
+     "blush",
+     "hesitant",
+     "sweat"
+    ],
+    "natural_en": "Kneeling in side profile gripping the partner's large erect penis in front of her chest with one hand, blushing heavily and staring hesitantly at the glans before opening her mouth."
+   },
+   "receiver": {
+    "label_zh": "被握方（站立於側面呈獻勃起陰莖）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.68,
+     "y": 0.48
+    },
+    "tags": [
+     "standing",
+     "penis",
+     "erection",
+     "large penis",
+     "head out of frame"
+    ],
+    "natural_en": "Standing close in front with a large veined erection resting in the kneeling partner's hand."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "handjob"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "handjob"
+    ]
+   }
+  },
+  "natural_en": "Side-profile close-up of a blushing kneeling woman holding a large erect penis near her chest and staring hesitantly at the glans before beginning oral.",
+  "prompt_zh": "側面近景口交前置：跪姿單手握持勃起巨根貼近胸前，合唇潮紅猶豫瞪視龜頭尚未舔舐。"
+ },
+ {
+  "id": "pos_oral_between_legs_rear_low_cum_spit",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "口交與深喉",
+  "title_zh": "男雙腿後方超低角跨腿逆視・跪地仰面口爆湧精",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "from below",
+   "low angle",
+   "between legs",
+   "dutch angle"
+  ],
+  "shared_pose_tags": [
+   "between legs",
+   "after fellatio",
+   "cum in mouth",
+   "cum overflow",
+   "cum on breasts"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "站立方（前景雙腿分開背對鏡頭、射後垂滴精液）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.5,
+     "y": 0.34
+    },
+    "tags": [
+     "standing",
+     "spread legs",
+     "penis",
+     "cum on penis",
+     "cumdrip",
+     "head out of frame"
+    ],
+    "natural_en": "Standing in the immediate low foreground with muscular legs spread apart, framing the scene from between his thighs as thick semen drips down."
+   },
+   "giver": {
+    "label_zh": "跪地方（透過雙腿間隙仰面張口承接湧流濃精）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.64
+    },
+    "tags": [
+     "kneeling",
+     "looking up",
+     "open mouth",
+     "cum in mouth",
+     "cum overflow",
+     "cum on face",
+     "cum on breasts",
+     "ahegao",
+     "sweat"
+    ],
+    "natural_en": "Seen framed between the standing partner's spread legs, kneeling on the floor tilting her face upward with mouth wide open as heavy streams of semen spill across her chin and chest."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "between legs",
+     "cum"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "between legs",
+     "cum"
+    ]
+   }
+  },
+  "natural_en": "Dramatic ultra-low angle looking forward from behind a standing partner's spread legs toward a kneeling woman looking up with open mouth spilling heavy cum onto her chest.",
+  "prompt_zh": "跨腿超低角逆視口爆：鏡頭置於站立方雙腿後方仰拍，透過胯下望向跪地女角仰面張口、濃精傾瀉胸腿。"
  }
 ]
