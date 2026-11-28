@@ -4296,5 +4296,151 @@
   },
   "natural_en": "Tight dutch-angle portrait close-up of a prone woman turning her flushed face back in intense ahegao with rolling eyes, tongue out, tears, and saliva.",
   "prompt_zh": "荷蘭斜角極近臉部大特寫：俯趴床面回眸望向鏡頭，翻眼吐舌、淚光與唾液交織的強烈高潮阿黑顏表情。"
+ },
+ {
+  "id": "solo_low_angle_head_back_ahegao_chest_closeup",
+  "category": "01_solo_closeup",
+  "subcategory": "口舌特寫",
+  "title_zh": "低角仰拍仰頭失神阿黑顏・胸頸半身特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "three_quarter_right",
+  "mirrorable": true,
+  "camera_tags": [
+   "portrait",
+   "close-up",
+   "face focus",
+   "from below",
+   "three-quarter view"
+  ],
+  "shared_pose_tags": [
+   "looking up",
+   "head tilt",
+   "ahegao",
+   "rolling eyes",
+   "half-closed eyes",
+   "tongue out",
+   "tears",
+   "saliva",
+   "sweat",
+   "steaming body"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（低角仰拍後仰露頸、翻眼淚光吐舌淌口水與飽滿微汗胸乳）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "looking up",
+     "head tilt",
+     "neck",
+     "collarbone",
+     "ahegao",
+     "rolling eyes",
+     "half-closed eyes",
+     "tongue out",
+     "open mouth",
+     "tears",
+     "saliva",
+     "saliva trail",
+     "sweat",
+     "glistening skin",
+     "blush",
+     "breasts",
+     "nipples"
+    ],
+    "natural_en": "Low-angle upper-body close-up looking up at her flushed face thrown back exposing her neck, eyes rolled up with glistening tears, tongue out dripping saliva, and glossy sweaty breasts filling the lower foreground."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle 3:4 upper-body close-up of intense euphoria: head thrown back showing throat, rolling tearful eyes, tongue out with saliva trails, and glistening breasts below.",
+  "prompt_zh": "低角仰拍胸頸半身阿黑顏：仰頭露頸、翻眼含淚、張口吐舌垂涎，前景下方呈現微汗飽滿胸乳與熱氣。"
+ },
+ {
+  "id": "macro_supine_side_low_stacked_breasts_steaming",
+  "category": "01_solo_closeup",
+  "subcategory": "胸部特寫展示",
+  "title_zh": "仰躺超低角側仰雙乳重疊・無頭冒熱氣胸乳大特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "head out of frame",
+   "out of frame",
+   "from side",
+   "side view",
+   "from below",
+   "breast focus"
+  ],
+  "shared_pose_tags": [
+   "lying",
+   "on back",
+   "torso",
+   "breasts",
+   "huge breasts",
+   "nipples",
+   "erect nipples",
+   "sweat",
+   "glistening skin",
+   "steam",
+   "steaming body"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭仰躺側低角雙乳前後重疊挺立、微汗冒熱氣）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "head out of frame",
+     "torso",
+     "breast focus",
+     "breasts",
+     "huge breasts",
+     "nipples",
+     "erect nipples",
+     "sweat",
+     "glistening skin",
+     "wet",
+     "steam",
+     "steaming body"
+    ],
+    "natural_en": "Ultra-low side-angle cropped-head macro close-up across her supine chest so both glistening sweaty breasts stack dramatically one behind the other with erect nipples and soft steam rising."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Ultra-low side-angle 3:4 cropped-head macro of supine breasts stacked in depth, glossy with sweat droplets and rising steam.",
+  "prompt_zh": "仰躺超低角側視無頭胸乳大特寫：雙乳沿縱深前後重疊挺立、乳頭微翹、佈滿晶亮汗珠與灼熱白霧。"
  }
 ]

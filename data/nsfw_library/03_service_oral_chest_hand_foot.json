@@ -6236,5 +6236,97 @@
   },
   "natural_en": "High-angle front POV close-up of simultaneous paizuri and fellatio: kneeling and squeezing her breasts around the shaft while licking the tip emerging at her lips, looking straight up.",
   "prompt_zh": "高角正面近景 POV 乳交口交連動：跪姿雙手夾緊雙乳包裹莖體，同時仰望吐舌舔吮自乳溝頂端探出的龜頭。"
+ },
+ {
+  "id": "pos_oral_side_holding_own_breast_glans_lick",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "口部侍奉 fellatio",
+  "title_zh": "側面近景單手托胸・吐舌輕舔龜頭尖端",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "upper body",
+   "close-up",
+   "side view",
+   "from side"
+  ],
+  "shared_pose_tags": [
+   "fellatio",
+   "licking penis",
+   "glans",
+   "breast lift",
+   "holding breast",
+   "cum on penis",
+   "saliva",
+   "saliva trail"
+  ],
+  "slots": {
+   "giver": {
+    "label_zh": "侍奉方（右側側面半身，單手下托巨乳、半瞇眼吐舌舔舐龜頭尖端）",
+    "requires": "breasts",
+    "center": {
+     "x": 0.62,
+     "y": 0.5
+    },
+    "tags": [
+     "profile",
+     "fellatio",
+     "licking penis",
+     "tongue out",
+     "breast lift",
+     "hand on own breast",
+     "holding breast",
+     "half-closed eyes",
+     "blush",
+     "sweat",
+     "saliva"
+    ],
+    "natural_en": "In tight side profile on the right, cupping and supporting her heavy glistening breast from underneath with one hand while extending her tongue to gently lick the tip of the erect penis."
+   },
+   "receiver": {
+    "label_zh": "承受方（左側站立僅露下腹與勃起陽具抵近唇前）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.24,
+     "y": 0.52
+    },
+    "tags": [
+     "fellatio",
+     "penis",
+     "erection",
+     "veiny penis",
+     "glans",
+     "cum on penis",
+     "saliva trail"
+    ],
+    "natural_en": "Standing closely on the left edge with his slick erect shaft angled up toward her lips as she licks the glans."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "receiver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "receiver": [
+     "futanari",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "Tight side-profile 3:4 upper-body close-up: cupping her own glistening breast from below while extending her tongue to lick the tip of the standing partner's penis.",
+  "prompt_zh": "側面近景單手托胸舔龜頭：侍奉方居右純側臉半瞇眼、單手從下方托捧飽滿微汗胸乳，伸舌輕舔前方站立男方沾精龜頭尖端。"
  }
 ]
