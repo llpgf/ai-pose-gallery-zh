@@ -3030,5 +3030,384 @@
   },
   "natural_en": "Tight first-person high-angle close-up of hand-and-tongue oral service: looking straight down at the blushing woman gripping the viewer's penis while licking it with an extended tongue and saliva trails, staring up into the lens.",
   "prompt_zh": "第一人稱高角極近手口並用舔舐特寫：角色近距跪仰、手持握莖身同時吐舌沿側舔舐並拉出唾液絲，眼神上挑直視鏡頭。"
+ },
+ {
+  "id": "pov_missionary_upside_down_breast_grab",
+  "category": "06_pov_special_cameras",
+  "subcategory": "特殊透視",
+  "title_zh": "倒轉視角正常位揉胸壓制 POV・1:1 近景",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov hands",
+   "from above",
+   "upside-down",
+   "close-up"
+  ],
+  "shared_pose_tags": [
+   "upside-down",
+   "missionary",
+   "sex",
+   "vaginal",
+   "grabbing another's breast",
+   "breast grab",
+   "on bed"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（頭下胸上倒轉仰躺床面，雙乳受 POV 雙手揉捏）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.54
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "upside-down",
+     "breast grab",
+     "open mouth",
+     "blush",
+     "arms up",
+     "looking at viewer"
+    ],
+    "natural_en": "Lying on her back on the bed seen completely upside-down with her flushed open-mouthed face at the lower edge and her breasts pushed up by first-person POV hands during missionary sex."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "hetero",
+     "penis",
+     "sex",
+     "vaginal"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 upside-down first-person POV overhead close-up during missionary sex: her head is inverted at the bottom while POV hands squeeze her breasts.",
+  "prompt_zh": "1:1 倒轉視角第一人稱俯視正常位：頭下胸上倒置構圖，受方仰躺床面迷離張口，POV 雙手入鏡揉捏雙乳。"
+ },
+ {
+  "id": "macro_pov_crotch_penetration_above_1x1",
+  "category": "06_pov_special_cameras",
+  "subcategory": "特殊透視",
+  "title_zh": "正上方 POV 結合部抽插大特寫・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov crotch",
+   "close-up",
+   "cropped torso",
+   "from above",
+   "crotch focus",
+   "pussy focus"
+  ],
+  "shared_pose_tags": [
+   "sex",
+   "vaginal",
+   "penetration",
+   "spread legs",
+   "pussy juice",
+   "pussy juice trail"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭截切局部大腿與私處結合部）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "cropped torso",
+     "spread legs",
+     "thighs",
+     "pussy focus",
+     "pussy juice",
+     "pussy juice trail",
+     "wet"
+    ],
+    "natural_en": "Tight 1:1 overhead cropped-torso POV macro focusing tightly on the parted thighs and glistening vaginal penetration point with sticky fluid trails."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "hetero",
+     "penis",
+     "sex",
+     "vaginal"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 overhead POV macro close-up of the penetration junction between spread thighs with glistening pussy juice trails.",
+  "prompt_zh": "1:1 正上方 POV 結合部大特寫：無頭截切聚焦大開大腿與陰道結合處，細膩呈現抽插與晶亮愛液拉絲。"
+ },
+ {
+  "id": "macro_rear_spread_butt_penetration_1x1",
+  "category": "06_pov_special_cameras",
+  "subcategory": "特殊透視",
+  "title_zh": "正後方掰臀貫入結合部大特寫・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov hands",
+   "pov crotch",
+   "close-up",
+   "head out of frame",
+   "from behind",
+   "ass focus",
+   "butt focus"
+  ],
+  "shared_pose_tags": [
+   "doggystyle",
+   "sex from behind",
+   "sex",
+   "vaginal",
+   "penis in pussy",
+   "spread butt",
+   "butt grab",
+   "pussy juice"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭後視局部圓臀遭雙手掰開貫入）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "bent over",
+     "top-down bottom-up",
+     "lower body",
+     "ass focus",
+     "ass",
+     "thighs",
+     "spread butt",
+     "pussy juice",
+     "wet"
+    ],
+    "natural_en": "Tight 1:1 rear cropped-torso macro close-up as POV hands grip and spread both buttocks wide around the deep rear penetration point."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "hetero",
+     "penis",
+     "sex",
+     "vaginal"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 rear POV macro close-up: hands spreading both buttocks wide to highlight the glistening rear-entry penetration junction.",
+  "prompt_zh": "1:1 正後方掰臀貫入大特寫：無頭截切聚焦雙臀與後入結合處，雙手外掰臀瓣清楚呈現深插與濕潤水光。"
+ },
+ {
+  "id": "macro_low_angle_pullout_cum_string_1x1",
+  "category": "06_pov_special_cameras",
+  "subcategory": "特殊透視",
+  "title_zh": "股下超低角仰視抽插拔出拉絲・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov crotch",
+   "close-up",
+   "head out of frame",
+   "from below",
+   "crotch focus",
+   "pussy focus"
+  ],
+  "shared_pose_tags": [
+   "cowgirl position",
+   "after vaginal",
+   "pull out",
+   "cum string",
+   "cum drip",
+   "pussy juice string",
+   "pussy juice on penis",
+   "dripping"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（超低仰視跨坐胯下結合處拉絲特寫）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.46
+    },
+    "tags": [
+     "squatting",
+     "straddling",
+     "lower body",
+     "spread legs",
+     "thighs",
+     "pussy focus",
+     "cum string",
+     "cum drip",
+     "pussy juice string",
+     "wet"
+    ],
+    "natural_en": "Ultra-low-angle 1:1 macro looking straight up underneath the straddling hips as the slick shaft pulls partly out, stretching thick glistening strands of fluid and cum."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "hetero",
+     "penis",
+     "sex",
+     "vaginal"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 ultra-low-angle under-crotch macro close-up of cowgirl thrusting and partial pull-out with thick glistening fluid strands.",
+  "prompt_zh": "1:1 股下超低角仰視微距：由跨坐胯下正下方極近仰拍結合口半抽出瞬間，呈現濃稠黏液與精液拉絲垂滴。"
+ },
+ {
+  "id": "macro_pov_penis_on_pussy_grinding_1x1",
+  "category": "06_pov_special_cameras",
+  "subcategory": "特殊透視",
+  "title_zh": "龜頭抵入口素股摩擦陰蒂・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov crotch",
+   "close-up",
+   "head out of frame",
+   "from above",
+   "pussy focus",
+   "crotch focus"
+  ],
+  "shared_pose_tags": [
+   "penis on pussy",
+   "grinding",
+   "imminent sex",
+   "imminent vaginal",
+   "imminent penetration",
+   "glans",
+   "clitoris",
+   "pussy juice",
+   "pussy juice string"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭股間局部受龜頭緊貼摩擦）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "lower body",
+     "spread legs",
+     "thighs",
+     "pussy",
+     "pussy focus",
+     "pussy juice",
+     "pussy juice string",
+     "wet"
+    ],
+    "natural_en": "Tight 1:1 overhead POV macro focusing strictly on the wet parted folds as the erect glans presses and rubs along the clitoris and entrance right before insertion."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "pov crotch",
+     "hetero",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 overhead POV macro close-up of the glans pressing and grinding against the glistening wet slit right before entry.",
+  "prompt_zh": "1:1 素股磨擦臨界大特寫：無頭 POV 俯拍微距，龜頭緊貼濕潤陰唇與陰蒂滑磨拉絲、一觸即發的進入前張力。"
+ },
+ {
+  "id": "macro_stomach_bulge_deep_penetration_1x1",
+  "category": "06_pov_special_cameras",
+  "subcategory": "特殊透視",
+  "title_zh": "小腹極度頂凸胸腹局部・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "close-up",
+   "cropped head",
+   "front view",
+   "navel focus"
+  ],
+  "shared_pose_tags": [
+   "stomach bulge",
+   "deep penetration",
+   "sex",
+   "vaginal",
+   "stomach",
+   "navel",
+   "sweat"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭胸腹局部清晰頂出明顯腹凸輪廓）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "cropped head",
+     "stomach",
+     "navel",
+     "stomach bulge",
+     "deep penetration",
+     "sweat",
+     "glistening skin"
+    ],
+    "natural_en": "Tight 1:1 cropped-head torso macro highlighting her taut sweaty lower abdomen visibly bulging outward from deep penetration."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "hetero",
+     "penis",
+     "sex",
+     "vaginal"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 cropped-head torso macro close-up focusing on a pronounced lower-abdomen stomach bulge during deep penetration with glistening sweat.",
+  "prompt_zh": "1:1 胸腹局部頂凸大特寫：無頭截切聚焦微汗緊繃的小腹與肚臍區域，清楚勾勒深插造成的誇張腹凸輪廓。"
  }
 ]

@@ -2334,5 +2334,286 @@
   },
   "natural_en": "High-angle three-quarter 4:3 full-body wide view of an FFF yuri threesome: one woman lies back in the middle while a second lies beside her kissing her at the head and a third gives cunnilingus between her spread legs.",
   "prompt_zh": "4:3 斜側俯視三女百合 3P 舔陰深吻：中央女性仰躺張腿，一女於頭側側臥俯身深吻揉胸、另一女於腿間張腿舔陰。"
+ },
+ {
+  "id": "pos_cunnilingus_upside_down_overhead",
+  "category": "05_yuri_cunnilingus",
+  "subcategory": "舔陰 cunnilingus",
+  "title_zh": "倒轉視角舔陰・由胸往胯倒置俯拍",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "upper body",
+   "from above",
+   "upside-down"
+  ],
+  "shared_pose_tags": [
+   "cunnilingus",
+   "oral",
+   "spread legs",
+   "lying",
+   "on bed",
+   "upside-down"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺床面，以頭下股上倒轉視角由胸俯看股間）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.36
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "knees up",
+     "upside-down",
+     "blush",
+     "arched back"
+    ],
+    "natural_en": "Lying on her back on the bed viewed upside-down from above her chest toward her spread thighs as her partner buries their face between her legs."
+   },
+   "giver": {
+    "label_zh": "施方（埋首於倒轉雙腿之間專注舔陰）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.68
+    },
+    "tags": [
+     "cunnilingus",
+     "oral",
+     "lying",
+     "on stomach",
+     "holding legs"
+    ],
+    "natural_en": "Positioned between her parted thighs in the upper-inverted portion of the frame, gripping her thighs while performing cunnilingus."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "cunnilingus"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "cunnilingus"
+    ]
+   }
+  },
+  "natural_en": "Upside-down overhead perspective looking from the supine woman's chest toward her spread legs while her partner performs cunnilingus between her thighs.",
+  "prompt_zh": "倒轉視角俯拍舔陰：由仰躺受方胸口往股間倒置俯視，施方埋首於大開的雙腿間雙手抓腿專注舔陰。"
+ },
+ {
+  "id": "yuri_fff_daisy_chain_cunnilingus_above",
+  "category": "05_yuri_cunnilingus",
+  "subcategory": "舔陰 cunnilingus",
+  "title_zh": "三女百合 3P 三角連環互舔（Daisy Chain）・俯視全身",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "4:3",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "wide shot",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "fff threesome",
+   "yuri",
+   "threesome",
+   "multiple girls",
+   "3girls",
+   "daisy chain",
+   "cunnilingus",
+   "lying",
+   "kneeling",
+   "on bed",
+   "uncensored"
+  ],
+  "slots": {
+   "girl_a": {
+    "label_zh": "女性 A（左側仰躺展開雙腿接受女性 B 舔陰）",
+    "requires": "female",
+    "center": {
+     "x": 0.22,
+     "y": 0.56
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "cunnilingus",
+     "pussy",
+     "blush",
+     "open mouth"
+    ],
+    "natural_en": "Lying on her back on the left side of the bed with legs spread wide, blushing with parted lips as the middle woman performs cunnilingus on her."
+   },
+   "girl_b": {
+    "label_zh": "女性 B（中央四肢跪趴俯身替 A 舔陰，同時翹臀接受 C 舔陰）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "all fours",
+     "kneeling",
+     "leaning forward",
+     "ass up",
+     "on bed",
+     "cunnilingus",
+     "licking",
+     "head between thighs",
+     "blush"
+    ],
+    "natural_en": "On all fours in the center of the bed leaning forward to lick the supine woman on the left while raising her hips for the third woman kneeling behind her."
+   },
+   "girl_c": {
+    "label_zh": "女性 C（右側跪姿俯身雙手扶腿替 B 舔陰）",
+    "requires": "female",
+    "center": {
+     "x": 0.78,
+     "y": 0.56
+    },
+    "tags": [
+     "kneeling",
+     "leaning forward",
+     "on bed",
+     "cunnilingus",
+     "licking",
+     "hands on another's thighs",
+     "closed eyes",
+     "blush"
+    ],
+    "natural_en": "Kneeling on the right side of the bed leaning forward with hands on the middle woman's thighs, performing cunnilingus from the end of the three-woman daisy chain."
+   }
+  },
+  "pairing_tags": {
+   "group": {
+    "base": [
+     "fff threesome",
+     "yuri",
+     "threesome",
+     "multiple girls"
+    ]
+   }
+  },
+  "natural_en": "Wide overhead 4:3 full-body view of an FFF yuri daisy chain on a bed: three women clearly separated head-to-hip in a linked cunnilingus chain, with the left woman lying on her back, the middle woman kneeling on all fours licking her, and the right woman kneeling to lick the middle woman.",
+  "prompt_zh": "4:3 俯視全身三女連環互舔（Daisy Chain）：三名女性在床上清楚展開首尾相接，左側仰躺張腿、中央跪趴俯身舔陰並翹臀、右側跪姿俯身替中央舔陰。"
+ },
+ {
+  "id": "yuri_fff_facesitting_and_cunnilingus_side",
+  "category": "05_yuri_cunnilingus",
+  "subcategory": "舔陰 cunnilingus",
+  "title_zh": "三女百合 3P 上下層疊・坐臉兼舔陰側面",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "4:3",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "wide shot",
+   "side view",
+   "from side"
+  ],
+  "shared_pose_tags": [
+   "fff threesome",
+   "yuri",
+   "threesome",
+   "multiple girls",
+   "facesitting",
+   "sitting on face",
+   "female facesitting female",
+   "cunnilingus",
+   "on bed"
+  ],
+  "slots": {
+   "bottom_girl": {
+    "label_zh": "下位女性（仰躺承接坐臉舔陰）",
+    "requires": "female",
+    "center": {
+     "x": 0.44,
+     "y": 0.72
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "facesitting",
+     "sitting on face",
+     "butt smother",
+     "underneath",
+     "hands on another's thighs",
+     "licking",
+     "blush"
+    ],
+    "natural_en": "Lying on her back on the bed gripping the sitting woman's thighs while performing cunnilingus from below."
+   },
+   "top_girl": {
+    "label_zh": "上位女性（跨坐下位臉上，前傾替前方女性舔陰）",
+    "requires": "female",
+    "center": {
+     "x": 0.44,
+     "y": 0.42
+    },
+    "tags": [
+     "facesitting",
+     "sitting on face",
+     "straddling",
+     "all fours",
+     "bent over",
+     "leaning forward",
+     "cunnilingus",
+     "head between thighs",
+     "licking",
+     "blush"
+    ],
+    "natural_en": "Straddling across the lower woman's face in facesitting while leaning forward on the bed to perform cunnilingus on the third woman reclining in front."
+   },
+   "front_girl": {
+    "label_zh": "前方女性（倚靠床頭開腿接受上位女性舔陰）",
+    "requires": "female",
+    "center": {
+     "x": 0.78,
+     "y": 0.54
+    },
+    "tags": [
+     "reclining",
+     "sitting",
+     "leaning back",
+     "on bed",
+     "spread legs",
+     "knees up",
+     "pussy",
+     "cunnilingus",
+     "hand on another's head",
+     "looking down",
+     "blush"
+    ],
+    "natural_en": "Reclining back on the right side of the bed with legs spread wide, resting a hand on the middle woman's head while receiving cunnilingus."
+   }
+  },
+  "pairing_tags": {
+   "group": {
+    "base": [
+     "fff threesome",
+     "yuri",
+     "threesome",
+     "multiple girls"
+    ]
+   }
+  },
+  "natural_en": "Wide side-view 4:3 composition of a three-woman yuri chain on a bed: the middle woman facesits the supine bottom woman while leaning forward to perform cunnilingus on the third woman reclining on the right.",
+  "prompt_zh": "4:3 側面全身三女百合上下層疊：中位女性跨坐於仰躺下位臉上承受舔陰，同時前傾為右側倚坐的第三名女性舔陰。"
  }
 ]

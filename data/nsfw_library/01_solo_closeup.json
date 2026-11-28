@@ -4173,5 +4173,128 @@
   },
   "natural_en": "Front crotch-focused close-up: pulling her panties aside with one hand while spreading her pussy beneath her clothes, glistening with wetness.",
   "prompt_zh": "正面近景隔衣撥開私處展示：坐姿張腿將內褲檔部撥向一側並以指尖輕分私處，清楚展現濕潤細節。"
+ },
+ {
+  "id": "macro_panties_aside_spread_pussy_1x1",
+  "category": "01_solo_closeup",
+  "subcategory": "私處展示特寫",
+  "title_zh": "撥開內褲掰穴拉絲大特寫・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "cropped torso",
+   "front view",
+   "pussy focus",
+   "crotch focus"
+  ],
+  "shared_pose_tags": [
+   "panties aside",
+   "spread pussy",
+   "pussy juice",
+   "pussy juice trail",
+   "spread legs"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭局部雙手撥開內褲掰開私處拉絲）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "spread legs",
+     "panties aside",
+     "spread pussy",
+     "pussy juice",
+     "pussy juice trail",
+     "wet"
+    ],
+    "natural_en": "Tight 1:1 cropped-torso macro close-up focusing strictly on the parted thighs and crotch as fingers pull the panties aside and gently spread the glistening wet labia with clear trails of fluid."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 cropped-torso macro close-up: pulling panties aside and spreading the glistening wet pussy with visible fluid trails.",
+  "prompt_zh": "1:1 無頭局部大特寫：雙手撥開內褲並輕輕掰開濕潤私處，清晰呈現愛液拉絲與微距質感。"
+ },
+ {
+  "id": "macro_dutch_ahegao_face_turning_back_closeup",
+  "category": "01_solo_closeup",
+  "subcategory": "口舌特寫",
+  "title_zh": "趴床回眸斜角阿黑顏・臉部大特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "three_quarter_right",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "portrait",
+   "face focus",
+   "dutch angle"
+  ],
+  "shared_pose_tags": [
+   "on stomach",
+   "looking back",
+   "ahegao",
+   "rolling eyes",
+   "tongue out",
+   "saliva",
+   "tears"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（趴伏床面斜角回眸極近阿黑顏臉龐）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on stomach",
+     "on bed",
+     "looking back",
+     "looking at viewer",
+     "ahegao",
+     "rolling eyes",
+     "tongue out",
+     "saliva",
+     "tears",
+     "heavy breathing",
+     "blush"
+    ],
+    "natural_en": "Tight tilted dutch-angle face close-up as she lies prone on the bed turning her flushed tearful face back toward the lens in an intense ahegao with rolled-up eyes, extended tongue, and glistening saliva."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Tight dutch-angle portrait close-up of a prone woman turning her flushed face back in intense ahegao with rolling eyes, tongue out, tears, and saliva.",
+  "prompt_zh": "荷蘭斜角極近臉部大特寫：俯趴床面回眸望向鏡頭，翻眼吐舌、淚光與唾液交織的強烈高潮阿黑顏表情。"
  }
 ]

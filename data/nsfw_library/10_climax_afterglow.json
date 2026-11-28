@@ -2075,5 +2075,1177 @@
   },
   "natural_en": "Rear 4:3 full-body view of after-anal afterglow: lying exhausted on her stomach with cum overflowing from her anus and dripping down her buttocks.",
   "prompt_zh": "4:3 後視全身後庭事後溢出：伏床癱軟微喘、臉紅回眸，後庭與臀間清楚可見濃稠精液緩緩溢出滑落。"
+ },
+ {
+  "id": "climax_after_double_v_ahegao_kneeling_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後雙手比 V 剪刀手阿黑顏・高角俯視全身",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "cowboy shot",
+   "front view",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "double v",
+   "v",
+   "ahegao",
+   "rolling eyes",
+   "tongue out",
+   "cum on face",
+   "cum on body"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（跪坐開腿滿身精液雙手比 V 翻眼吐舌）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "kneeling",
+     "spread legs",
+     "after sex",
+     "double v",
+     "v",
+     "ahegao",
+     "rolling eyes",
+     "tongue out",
+     "saliva",
+     "cum on face",
+     "cum on body",
+     "cumdrip",
+     "blush",
+     "looking up"
+    ],
+    "natural_en": "Kneeling with spread legs in high-angle view after sex, covered in cum across her face and chest while holding up both hands in double peace signs with a blissful ahegao expression."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "High-angle front 3:4 view of post-sex double-peace ahegao: kneeling covered in cum with rolled-up eyes, tongue out, and both hands flashing V signs.",
+  "prompt_zh": "高角俯視事後雙手比 V 阿黑顏：跪坐開腿滿臉滿胸精液，翻白眼吐舌並雙手舉起剪刀手的事後名場面。"
+ },
+ {
+  "id": "climax_after_cum_inflation_stomach_press_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後精液脹肚按壓・仰躺撫腹俯視全身",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from above",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "cum inflation",
+   "stomach",
+   "hands on another's stomach",
+   "cum overflow",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺床面小腹明顯鼓脹溢精、迷離喘息）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "after sex",
+     "after vaginal",
+     "cum inflation",
+     "cum overflow",
+     "cumdrip",
+     "exhausted",
+     "blush",
+     "half-closed eyes"
+    ],
+    "natural_en": "Lying exhausted on her back on the bed with a visibly swollen round lower belly from cum inflation as thick cum overflows between her parted thighs."
+   },
+   "giver": {
+    "label_zh": "施方（於側邊伸雙手輕壓其圓鼓小腹）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.5,
+     "y": 0.78
+    },
+    "tags": [
+     "kneeling",
+     "hands on another's stomach",
+     "belly grab"
+    ],
+    "natural_en": "Kneeling beside her thighs pressing both hands gently against her swollen cum-filled stomach."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "High-angle front 3:4 view of post-sex cum inflation on a bed: the exhausted supine woman lies with a visibly distended lower belly as her partner presses both hands onto her stomach, causing cum to overflow.",
+  "prompt_zh": "高角俯視事後精液脹肚按壓：受方仰躺床面小腹圓鼓、微喘失神，施方雙手按壓其膨脹小腹並引發股間溢精。"
+ },
+ {
+  "id": "climax_after_penis_on_face_ahegao_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後陽具橫壓眼鼻臉部・仰躺阿黑顏近景",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "upper body",
+   "close-up",
+   "from above",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "penis on face",
+   "ahegao",
+   "cum on face",
+   "cum on breasts",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺失神滿臉精液，臉龐承接橫壓陽具）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "after sex",
+     "penis on face",
+     "ahegao",
+     "rolling eyes",
+     "tongue out",
+     "cum on face",
+     "cum on breasts",
+     "blush"
+    ],
+    "natural_en": "Lying dazed on her back on the bed with rolled eyes, tongue out, and cum smeared across her cheeks and breasts while the partner's glistening penis rests across her nose and cheek."
+   },
+   "giver": {
+    "label_zh": "施方（俯近將沾精陽具橫壓於其臉頰鼻樑）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.5,
+     "y": 0.84
+    },
+    "tags": [
+     "penis",
+     "penis on face",
+     "cum on penis"
+    ],
+    "natural_en": "Leaning close from the side resting his cum-coated penis horizontally across her flushed face."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "Overhead close-up of post-sex penis-on-face afterglow: the dazed woman lies back in cum-covered ahegao while her partner rests his glistening penis across her cheek and nose.",
+  "prompt_zh": "俯視近景事後陽具壓臉：受方仰躺床面滿臉精液翻眼吐舌失神，施方將沾精陽具橫壓於其眼鼻與臉頰上。"
+ },
+ {
+  "id": "climax_after_m_legs_knees_grab_soles_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後仰躺抓膝 M 字開腳＋前景雙腳底・俯視全身",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "front view",
+   "from above",
+   "foreshortening"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "m legs",
+   "hands on own knees",
+   "soles",
+   "cum overflow",
+   "cumdrip",
+   "on bed"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（仰躺雙手抓膝呈 M 字大開腳，前景現雙腳底與溢精）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "m legs",
+     "spread legs",
+     "hands on own knees",
+     "soles",
+     "feet up",
+     "after sex",
+     "after vaginal",
+     "cum overflow",
+     "cumdrip",
+     "exhausted",
+     "blush",
+     "looking at viewer"
+    ],
+    "natural_en": "Lying exhausted on her back on the bed holding her own knees back in a wide M-leg spread with both soles turned forward in the lower foreground as thick cum drips from her pussy."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Foreshortened front high-angle view of post-sex M-leg exhaustion on a bed: holding her own bent knees wide apart with both soles visible in the foreground and cum overflowing onto the sheets.",
+  "prompt_zh": "強透視俯視事後抓膝 M 字癱躺：仰臥床面雙手拉抓膝蓋呈 M 字大開腳、前景呈現雙腳底，私處不斷溢精滴落床單。"
+ },
+ {
+  "id": "climax_after_used_condoms_bed_sprawl_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "滿床用過保險套・事後癱軟仰躺俯視全身",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from above",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "used condom",
+   "multiple condoms",
+   "exhausted",
+   "lying",
+   "on bed",
+   "messy hair"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（仰躺凌亂床單癱軟，周圍散落多個用過保險套）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "after sex",
+     "used condom",
+     "multiple condoms",
+     "exhausted",
+     "messy hair",
+     "sweat",
+     "blush",
+     "half-closed eyes"
+    ],
+    "natural_en": "Sprawled exhausted on rumpled bedsheets after a long session with messy hair, glistening sweat, and numerous tied used condoms scattered around her body on the bed."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Overhead 3:4 full-body view of post-sex exhaustion surrounded by numerous scattered used condoms across the rumpled bedsheets.",
+  "prompt_zh": "正上方俯視滿床保險套事後：角色大字癱軟仰躺凌亂床面、髮絲散亂微汗喘息，周圍散落多個裝滿白濁的用過保險套。"
+ },
+ {
+  "id": "climax_after_condom_in_mouth_teasing_closeup",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "口含用過保險套挑逗展示・事後近景",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "portrait",
+   "upper body",
+   "close-up",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "condom in mouth",
+   "used condom",
+   "filled condom",
+   "mouth hold",
+   "blush",
+   "looking at viewer"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（胸上近景口唇咬叼裝精用過保險套望向鏡頭）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "portrait",
+     "upper body",
+     "close-up",
+     "after sex",
+     "condom in mouth",
+     "used condom",
+     "filled condom",
+     "mouth hold",
+     "blush",
+     "sweat",
+     "bedroom eyes",
+     "half-closed eyes",
+     "looking at viewer"
+    ],
+    "natural_en": "Upper-body portrait close-up after sex, biting the rim of a cum-filled used condom between her lips so it dangles over her cleavage while gazing alluringly at the viewer with flushed cheeks."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Front upper-body close-up of post-sex teasing: holding a cum-filled used condom dangling from her teeth while gazing warmly at the camera.",
+  "prompt_zh": "正面近景口叼保險套事後：輕咬裝滿白濁的用過保險套邊緣垂掛唇前，微汗臉紅迷離直視鏡頭。"
+ },
+ {
+  "id": "climax_after_condom_left_inside_spread_front",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "保險套遺留體內半露拉出・事後正面特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "cowboy shot",
+   "front view",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "condom left inside",
+   "used condom",
+   "filled condom",
+   "holding condom",
+   "hand between legs",
+   "spread legs",
+   "on bed"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（仰躺開腿伸手輕捏半露體外之用過保險套）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "knees up",
+     "after sex",
+     "after vaginal",
+     "condom left inside",
+     "used condom",
+     "filled condom",
+     "holding condom",
+     "hand between legs",
+     "blush",
+     "embarrassed",
+     "looking at viewer"
+    ],
+    "natural_en": "Lying back on the bed with knees bent and legs parted, blushing embarrassedly as she reaches down with one hand between her legs to pinch and pull out a cum-filled used condom sticking partway out of her pussy."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "High-angle front 3:4 view of post-sex condom left inside: lying back with spread legs blushing as a used condom peeks partway out of her entrance.",
+  "prompt_zh": "高角正面保險套遺留體內事後：仰躺床面開腿羞紅，指尖輕捏半露於入口外的用過保險套拉出。"
+ },
+ {
+  "id": "climax_after_pull_out_cum_overflow_rear",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "抽出瞬間濃精湧出拉絲積池・後視斜側全身",
+  "pattern": "organ_bound",
+  "default_canvas": "4:3",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "three-quarter view",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "pull out",
+   "cum overflow",
+   "cum string",
+   "cum pool",
+   "all fours",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（跪趴微顫回眸，剛被抽出之私處湧出濃精拉絲積潭）",
+    "requires": "female",
+    "center": {
+     "x": 0.36,
+     "y": 0.52
+    },
+    "tags": [
+     "all fours",
+     "on bed",
+     "ass up",
+     "after sex",
+     "after vaginal",
+     "pull out",
+     "cum overflow",
+     "cum string",
+     "cum pool",
+     "trembling",
+     "looking back",
+     "blush"
+    ],
+    "natural_en": "Kneeling weakly on all fours on the bed trembling and looking back as thick cum gushes out in stretched strands and pools beneath her right after pull-out."
+   },
+   "giver": {
+    "label_zh": "施方（跪於後方剛抽出沾精陽具仍拉出濃絲）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.68,
+     "y": 0.5
+    },
+    "tags": [
+     "kneeling",
+     "pull out",
+     "cum on penis",
+     "cum string",
+     "penis"
+    ],
+    "natural_en": "Kneeling just behind her hips having pulled out, with thick strands of cum stretching from his glistening tip to her overflowing entrance."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "Three-quarter overhead 4:3 view of post-sex pull-out: the kneeling woman trembles on all fours as thick cum stretches in strands from the withdrawn penis and overflows into a pool on the sheets.",
+  "prompt_zh": "4:3 斜後俯視抽出湧精瞬間：施方由跪趴受方體內剛抽出陽具，牽出濃稠精液長絲並於床單積成白濁水窪。"
+ },
+ {
+  "id": "climax_after_cum_in_panties_standing_front",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後穿回內褲仍溢精濕透・站立害羞正面",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "cowboy shot",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "cum in panties",
+   "cumdrip onto panties",
+   "cumdrip",
+   "standing",
+   "panties"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（站立拉起裙角露出滲滿白濁並沿大腿滑落的濕透內褲）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "after sex",
+     "after vaginal",
+     "panties",
+     "cum in panties",
+     "cumdrip onto panties",
+     "cumdrip",
+     "cum on legs",
+     "blush",
+     "embarrassed",
+     "looking at viewer"
+    ],
+    "natural_en": "Standing blushingly after pulling her panties back on, with overflowing cum soaking through the fabric and trickling down her inner thighs."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Front 3:4 cowboy shot of post-sex underwear overflow: standing embarrassed after putting her panties back on while excess cum soaks the fabric and trickles down her thighs.",
+  "prompt_zh": "正面七分身事後穿回內褲溢精：勉強穿回內褲站立，卻因滿溢白濁滲透布料並沿大腿內側緩緩滴落而羞紅臉。"
+ },
+ {
+  "id": "climax_after_wiping_mouth_tissue_closeup",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後用紙巾擦拭嘴角精液・近景半身",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "three_quarter_left",
+  "mirrorable": true,
+  "camera_tags": [
+   "portrait",
+   "close-up",
+   "cropped torso",
+   "face focus",
+   "three-quarter view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after fellatio",
+   "wiping mouth",
+   "hand to own mouth",
+   "tissue",
+   "used tissue",
+   "cum on face",
+   "cum on chin",
+   "blush"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（坐姿拿紙巾輕擦嘴角與臉頰殘留精液）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "after sex",
+     "wiping mouth",
+     "hand to own mouth",
+     "holding tissue",
+     "tissue",
+     "used tissue",
+     "cum on face",
+     "cum on chin",
+     "blush",
+     "shy",
+     "looking at viewer"
+    ],
+    "natural_en": "Seated in upper-body close-up right after oral, shyly dabbing glistening cum from the corner of her lips with a crumpled tissue while glancing up."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Three-quarter upper-body close-up of post-fellatio cleanup: shyly wiping residual cum from the corner of her mouth with a tissue.",
+  "prompt_zh": "斜側半身近景事後擦嘴：口交結束後臉紅微喘，手持紙巾輕輕擦拭嘴角與臉頰殘留精液的日常餘韻感。"
+ },
+ {
+  "id": "climax_after_mind_break_fainted_steaming_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "徹底玩壞失神昏厥・冒熱氣抽搐大字癱軟俯視",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from above",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "mind break",
+   "fainted",
+   "collapsed",
+   "steaming body",
+   "twitching",
+   "empty eyes",
+   "cum in pussy",
+   "cum overflow",
+   "cum on body",
+   "cum pool",
+   "on bed"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（四肢癱軟大字仰躺床面、空洞失神冒熱氣微抽搐）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread arms",
+     "spread legs",
+     "pussy",
+     "after sex",
+     "after vaginal",
+     "mind break",
+     "fainted",
+     "collapsed",
+     "empty eyes",
+     "steaming body",
+     "twitching",
+     "drooling",
+     "messy hair",
+     "cum in pussy",
+     "cum overflow",
+     "cum on body",
+     "cum pool"
+    ],
+    "natural_en": "Collapsed completely limp in a spread-eagle posture on the bed after extreme exhaustion, eyes glazed and empty, drooling slightly with steam rising from her twitching cum-coated body."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Top-down 3:4 full-body view of total post-sex collapse: sprawled limp with empty glazed eyes, drooling, steam rising from her sweat-and-cum-covered twitching body.",
+  "prompt_zh": "正上方俯視全身事後失神昏厥：大字癱軟倒臥床面、眼神空洞失焦微吐唾液，全身沾精抽搐並升起灼熱白霧。"
+ },
+ {
+  "id": "climax_after_masturbation_exhausted_bed_3q",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "單人自慰事後喘息癱靠・斜正面全身",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "three_quarter_left",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "three-quarter view",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "after masturbation",
+   "exhausted",
+   "pussy juice",
+   "sweat",
+   "on bed",
+   "heavy breathing"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（仰靠床鋪雙腿微開微喘、指尖仍沾愛液濕潤）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "after masturbation",
+     "exhausted",
+     "heavy breathing",
+     "pussy juice",
+     "wet",
+     "sweat",
+     "blush",
+     "half-closed eyes"
+    ],
+    "natural_en": "Lying back breathlessly on the bed right after solo masturbation, thighs parted and slick with pussy juice, one wet hand resting weakly near her thigh as she catches her breath."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "High-angle three-quarter 3:4 view of post-masturbation afterglow: reclining exhausted on the bed with flushed cheeks, parted wet thighs, and glistening fingers resting loosely.",
+  "prompt_zh": "斜角俯視全身自慰事後餘韻：仰靠床面微張雙腿喘息平復，臉頰潮紅、大腿內側與指尖仍留濕潤愛液。"
+ },
+ {
+  "id": "climax_after_sleeping_together_arm_pillow_above",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後被窩枕臂相擁熟睡・溫馨俯視全身",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "4:3",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "upper body",
+   "close-up",
+   "cropped torso",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "afterglow",
+   "sleeping together",
+   "arm pillow",
+   "under covers",
+   "shared blanket",
+   "blanket",
+   "bed covers",
+   "bed sheet",
+   "pillow",
+   "heads together",
+   "cuddling",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（側蜷於被窩枕著伴侶手臂安詳熟睡）",
+    "requires": "female",
+    "center": {
+     "x": 0.42,
+     "y": 0.52
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "under covers",
+     "blanket",
+     "sleeping",
+     "sleeping together",
+     "arm pillow",
+     "head on pillow",
+     "heads together",
+     "closed eyes",
+     "blush",
+     "cuddling"
+    ],
+    "natural_en": "Curled peacefully asleep under the warm bedsheet with her head resting on her partner's outstretched arm, soft lingering blush on her cheeks."
+   },
+   "giver": {
+    "label_zh": "施方（仰躺伸臂讓其枕頭、另一手輕擁肩背熟睡）",
+    "requires": "any",
+    "center": {
+     "x": 0.62,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "under covers",
+     "blanket",
+     "sleeping",
+     "sleeping together",
+     "arm pillow",
+     "arm around shoulder",
+     "outstretched arm",
+     "head on pillow",
+     "closed eyes",
+     "cuddling"
+    ],
+    "natural_en": "Lying peacefully asleep beside her under the covers, letting her pillow her head on his arm while holding her close."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari"
+    ]
+   }
+  },
+  "natural_en": "Warm overhead 4:3 view of post-sex sleeping together under the covers: curled close on an arm pillow in tranquil afterglow.",
+  "prompt_zh": "4:3 溫馨俯視事後被窩熟睡：兩人蓋著薄被相擁而眠，受方枕於伴侶手臂上微紅臉龐安詳入睡的治癒結局。"
+ },
+ {
+  "id": "macro_xray_cervical_internal_cumshot_1x1",
+  "category": "10_climax_afterglow",
+  "subcategory": "透視／剖面表現格",
+  "title_zh": "全幅 1:1 子宮頸貫穿灌精剖面大特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "head out of frame",
+   "front view",
+   "crotch focus"
+  ],
+  "shared_pose_tags": [
+   "x-ray",
+   "cross-section",
+   "internal",
+   "internal vaginal",
+   "uterus",
+   "cervix",
+   "cervical penetration",
+   "internal cumshot",
+   "cum in uterus",
+   "deep penetration",
+   "penis in pussy"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（全幅解剖剖面呈現深插抵子宮頸與內射瞬間）",
+    "requires": "pussy",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "lower body",
+     "spread legs",
+     "stomach",
+     "navel",
+     "thighs",
+     "x-ray",
+     "cross-section",
+     "uterus",
+     "cervix",
+     "cervical penetration",
+     "internal cumshot",
+     "cum in uterus",
+     "cum in pussy"
+    ],
+    "natural_en": "Full-frame 1:1 anatomical x-ray cross-section insert showing deep vaginal penetration pressing directly into the cervix with a dramatic burst of internal cumshot filling the uterus."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "hetero",
+     "penis",
+     "sex",
+     "vaginal"
+    ]
+   }
+  },
+  "natural_en": "Standalone square 1:1 full-frame x-ray cross-section insert: deep penetration pressing into the cervix during internal cumshot.",
+  "prompt_zh": "獨立 1:1 全幅透視剖面插頁：極近解剖剖面完整呈現深插抵入子宮頸與大量內射灌滿瞬間。"
+ },
+ {
+  "id": "macro_low_angle_double_gaping_cum_overflow_1x1",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "極低角雙穴擴張湧精潮吹大特寫・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "cropped torso",
+   "from below",
+   "pussy focus",
+   "crotch focus"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "gaping",
+   "gaping anus",
+   "cum overflow",
+   "cum pool",
+   "pussy ejaculation"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（無頭低角股間雙穴同時擴張湧出濃精與噴水）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "cropped torso",
+     "spread legs",
+     "after sex",
+     "after vaginal",
+     "gaping",
+     "gaping anus",
+     "cum overflow",
+     "cum pool",
+     "cumdrip",
+     "pussy ejaculation",
+     "wet"
+    ],
+    "natural_en": "Low-angle 1:1 cropped-torso macro looking across her wide-open thighs at both visibly gaping entrances overflowing with thick cum and clear spray pooling below."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 low-angle cropped-torso macro of intense aftermath: both entrances visibly gaping and overflowing with thick cum into a pool below.",
+  "prompt_zh": "1:1 極低角雙穴擴張湧精大特寫：無頭截切聚焦大開股間，私處與後庭同時擴張湧出濃稠白濁並積成水窪。"
+ },
+ {
+  "id": "macro_dripping_cum_hand_grabbing_sheets_1x1",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "高潮緊抓床單與沾精垂滴手部・1:1 意象大特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "extreme close-up",
+   "hand focus",
+   "from above",
+   "out of frame",
+   "cropped torso"
+  ],
+  "shared_pose_tags": [
+   "sheet grab",
+   "grabbing sheets",
+   "clenched hand",
+   "bed sheet",
+   "bedding background",
+   "cum",
+   "cum on hand",
+   "cum on fingers",
+   "cum on arm",
+   "cum drip",
+   "dripping",
+   "trembling",
+   "after sex"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（極近局部手部緊抓皺褶床單、指尖沾滿精液緩緩垂滴）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "hand focus",
+     "sheet grab",
+     "grabbing sheets",
+     "clenched hand",
+     "fingers",
+     "bed sheet",
+     "cum",
+     "cum on hand",
+     "cum on fingers",
+     "cum on arm",
+     "cum drip",
+     "dripping",
+     "trembling",
+     "after sex",
+     "out of frame"
+    ],
+    "natural_en": "Artistic 1:1 macro close-up focusing tightly on her trembling hand clutching crumpled white bedsheets, fingers glistening with cum slowly dripping downward."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 cinematic macro close-up of a trembling hand gripping rumpled bedsheets with glistening cum dripping from the fingertips.",
+  "prompt_zh": "1:1 電影感手部大特寫：極近微距聚焦微微顫抖、緊抓皺褶床單的纖手，指尖沾附白濁緩緩垂滴的餘韻意象。"
  }
 ]

@@ -6051,5 +6051,190 @@
   },
   "natural_en": "Side full-body view of straddling paizuri: the man lies on his back while the woman straddles his legs and leans forward, pressing her squeezed breasts down over his erect penis.",
   "prompt_zh": "4:3 側面全身跨坐壓胸乳交：承受方仰躺扶胯，施與方跨坐於大腿上方俯身將雙胸壓合夾住陰莖上下侍奉。"
+ },
+ {
+  "id": "pos_oral_kneeling_rear_low_ass_soles",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "口部侍奉 fellatio",
+  "title_zh": "跪伏口交・正後方低角巨臀與雙腳底機位",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from behind",
+   "from below",
+   "ass focus",
+   "foreshortening"
+  ],
+  "shared_pose_tags": [
+   "fellatio",
+   "oral",
+   "kneeling",
+   "all fours",
+   "ass up",
+   "soles",
+   "feet"
+  ],
+  "slots": {
+   "giver": {
+    "label_zh": "侍奉方（跪伏前傾口交，正後方翹臀與雙腳底佔前景）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.58
+    },
+    "tags": [
+     "kneeling",
+     "all fours",
+     "ass up",
+     "soles",
+     "feet",
+     "fellatio",
+     "leaning forward",
+     "arched back"
+    ],
+    "natural_en": "Kneeling low on all fours facing away from the camera to perform fellatio on the standing partner ahead, her raised round buttocks and both bare soles filling the low rear foreground."
+   },
+   "receiver": {
+    "label_zh": "承受方（前方站立受口交，低頭雙手扶其後腦）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.5,
+     "y": 0.28
+    },
+    "tags": [
+     "standing",
+     "fellatio",
+     "hand on another's head",
+     "looking down"
+    ],
+    "natural_en": "Standing directly ahead in the background while receiving fellatio from her kneeling posture, placing a hand on the back of her head."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "male_male": {
+    "base": [
+     "yaoi",
+     "penis"
+    ],
+    "giver": [
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "Low rear-angle foreshortened view of kneeling fellatio: her raised buttocks and both soles dominate the lower foreground as she leans forward to perform oral on the standing partner ahead.",
+  "prompt_zh": "正後方低角強透視跪伏口交：侍奉方四肢跪伏前傾為前方站立者口交，高翹圓臀與雙腳底佔據前景下半部。"
+ },
+ {
+  "id": "pos_paizuri_fellatio_combo_pov_above",
+  "category": "03_service_oral_chest_hand_foot",
+  "subcategory": "乳交 paizuri",
+  "title_zh": "乳交口交複合連動・穿乳溝抵唇舔吮俯視",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov crotch",
+   "close-up",
+   "from above",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "paizuri",
+   "fellatio",
+   "licking penis",
+   "breast press",
+   "penis between breasts",
+   "saliva",
+   "looking up"
+  ],
+  "slots": {
+   "giver": {
+    "label_zh": "侍奉方（雙手擠乳夾莖並吐舌舔吮探出乳溝之龜頭）",
+    "requires": "breasts",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "paizuri",
+     "fellatio",
+     "licking penis",
+     "breast press",
+     "holding own breasts",
+     "tongue out",
+     "saliva",
+     "looking up",
+     "looking at viewer",
+     "blush"
+    ],
+    "natural_en": "In tight high-angle close-up, pressing both breasts tightly around the shaft with both hands while extending her wet tongue to lick and suck the glans emerging at the top of her cleavage, gazing up."
+   },
+   "receiver": {
+    "label_zh": "承受方（第一人稱前景下緣胯部貼近穿過乳溝直抵唇邊）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.5,
+     "y": 0.88
+    },
+    "tags": [
+     "paizuri",
+     "fellatio",
+     "large penis",
+     "glans",
+     "erection",
+     "pov crotch"
+    ],
+    "natural_en": "Seen in first-person POV crotch view from above as his erect penis slides up between her squeezed breasts directly against her parted lips and tongue."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "receiver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "receiver": [
+     "futanari",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "High-angle front POV close-up of simultaneous paizuri and fellatio: kneeling and squeezing her breasts around the shaft while licking the tip emerging at her lips, looking straight up.",
+  "prompt_zh": "高角正面近景 POV 乳交口交連動：跪姿雙手夾緊雙乳包裹莖體，同時仰望吐舌舔吮自乳溝頂端探出的龜頭。"
  }
 ]

@@ -3184,5 +3184,256 @@
   },
   "natural_en": "Side upper-body close-up of affectionate face licking: the woman leans close cupping her partner's face and running her wet tongue playfully up their flushed cheek.",
   "prompt_zh": "3:4 側面近景貼身舔臉舔頰：右側女性扶臉貼近伸出濕舌沿臉頰向上舔舐，左側承受方臉紅閉眼微偏頭。"
+ },
+ {
+  "id": "foreplay_guided_penetration_hand_align_closeup",
+  "category": "02_foreplay",
+  "subcategory": "進入前臨界／引導定位／吻後停頓過渡格",
+  "title_zh": "手扶引導對準入口・進入前特寫",
+  "pattern": "organ_bound",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "from above",
+   "front view",
+   "crotch focus"
+  ],
+  "shared_pose_tags": [
+   "guided penetration",
+   "imminent vaginal",
+   "imminent penetration",
+   "holding penis",
+   "spread legs",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺開腿伸手扶握陽具對準入口）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.54
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "spread legs",
+     "knees up",
+     "guided penetration",
+     "holding penis",
+     "pussy juice",
+     "blush",
+     "looking at viewer"
+    ],
+    "natural_en": "Lying on her back on the bed with knees bent and legs spread wide, reaching down with one hand to gently grip and guide the partner's penis right against her wet entrance."
+   },
+   "giver": {
+    "label_zh": "施方（跪於腿間緩緩抵近配合引導）",
+    "requires": "penis_or_dildo",
+    "center": {
+     "x": 0.5,
+     "y": 0.8
+    },
+    "tags": [
+     "kneeling",
+     "guided penetration",
+     "imminent vaginal",
+     "erection",
+     "leaning forward"
+    ],
+    "natural_en": "Kneeling between her parted thighs leaning forward as she guides his erect shaft directly to her entrance."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "penis"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "penis"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   }
+  },
+  "natural_en": "High-angle close-up of guided penetration: the woman lies back on the bed with spread legs, holding and guiding her partner's penis right to her wet entrance just before insertion.",
+  "prompt_zh": "高角正面近景手扶引導插入：受方仰躺張腿，親手輕握施方陽具對準濕潤入口的臨界過渡瞬間。"
+ },
+ {
+  "id": "macro_breast_squeeze_nipple_tweak_1x1",
+  "category": "02_foreplay",
+  "subcategory": "背後環抱揉胸",
+  "title_zh": "雙手擠揉巨乳捏拉乳頭・1:1 無頭大特寫",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "upper body",
+   "head out of frame",
+   "front view",
+   "breast focus"
+  ],
+  "shared_pose_tags": [
+   "hugging from behind",
+   "grabbing another's breast",
+   "breast grab",
+   "breasts squeezed together",
+   "breast squish",
+   "nipple tweak",
+   "sweat"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（無頭胸廓局部受雙手擠壓揉捏）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.55
+    },
+    "tags": [
+     "standing",
+     "head out of frame",
+     "breast focus",
+     "breasts",
+     "erect nipples",
+     "sweat",
+     "glistening body"
+    ],
+    "natural_en": "Tight cropped-head torso view showcasing her glistening flushed breasts being firmly squeezed and her nipples pinched from both sides."
+   },
+   "giver": {
+    "label_zh": "施方（雙手入鏡緊抓擠壓胸部並捏弄乳頭）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.45
+    },
+    "tags": [
+     "hugging from behind",
+     "grabbing another's breast",
+     "breast grab",
+     "breast squish",
+     "nipple tweak"
+    ],
+    "natural_en": "Both hands reaching in from the sides to squeeze her soft breasts deeply together while pinching and rolling her nipples."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 cropped-head macro close-up of firm breast squeezing and nipple pinching with glistening skin.",
+  "prompt_zh": "1:1 無頭局部大特寫：雙手從兩側用力擠壓揉捏微汗胸部並輕捏乳頭的近距特寫。"
+ },
+ {
+  "id": "macro_licking_nipple_saliva_overhead_1x1",
+  "category": "02_foreplay",
+  "subcategory": "背後環抱揉胸",
+  "title_zh": "俯視側面舔乳吮乳頭拉絲・1:1 局部大特寫",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "cropped head",
+   "from above",
+   "breast focus"
+  ],
+  "shared_pose_tags": [
+   "licking nipple",
+   "licking breast",
+   "breast grab",
+   "saliva",
+   "saliva trail",
+   "wet"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺無頭胸口局部受側面舔吮）",
+    "requires": "female",
+    "center": {
+     "x": 0.48,
+     "y": 0.52
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "cropped head",
+     "breast focus",
+     "breasts",
+     "nipples",
+     "sweat",
+     "wet"
+    ],
+    "natural_en": "Lying back in a tight overhead cropped-head close-up as her glistening breast and erect nipple are licked with sticky saliva trails."
+   },
+   "giver": {
+    "label_zh": "施方（側首俯近伸舌舔舐乳頭並托胸）",
+    "requires": "any",
+    "center": {
+     "x": 0.62,
+     "y": 0.52
+    },
+    "tags": [
+     "licking nipple",
+     "licking breast",
+     "tongue out",
+     "saliva",
+     "saliva trail",
+     "grabbing another's breast"
+    ],
+    "natural_en": "Leaning in from the side with mouth open and wet tongue pressed against her nipple, drawing a glistening saliva strand while cupping the breast."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 overhead cropped-head macro close-up of licking and sucking a glistening nipple with visible saliva strands.",
+  "prompt_zh": "1:1 俯視局部大特寫：側身俯近伸舌舔吮仰躺者乳頭，雙手托胸並拉出晶亮唾液絲。"
  }
 ]
