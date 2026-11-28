@@ -4442,5 +4442,674 @@
   },
   "natural_en": "Ultra-low side-angle 3:4 cropped-head macro of supine breasts stacked in depth, glossy with sweat droplets and rising steam.",
   "prompt_zh": "仰躺超低角側視無頭胸乳大特寫：雙乳沿縱深前後重疊挺立、乳頭微翹、佈滿晶亮汗珠與灼熱白霧。"
+ },
+ {
+  "id": "male_solo_standing_erection_low_angle",
+  "category": "01_solo_closeup",
+  "subcategory": "男性單人立姿與自慰",
+  "title_zh": "男角單人全裸立姿勃起・女方低角仰視",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "medium shot",
+   "from below",
+   "low angle",
+   "three-quarter view"
+  ],
+  "shared_pose_tags": [
+   "male focus",
+   "erection",
+   "penis"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "男角主體（全裸立姿勃起俯視）",
+    "requires": "male",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "nude",
+     "penis",
+     "erection",
+     "large penis",
+     "looking down",
+     "sweat",
+     "glistening skin"
+    ],
+    "natural_en": "Naked muscular man standing tall in three-quarter front view seen from a low upward angle, arms relaxed at sides, large veined erection jutting forward, glistening with light sweat."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle 3:4 female-POV shot looking up at a nude muscular man standing tall with a prominent erection.",
+  "prompt_zh": "女方低角仰視男角單人全裸立姿：挺拔站立俯看鏡頭、健壯身軀微汗、巨根勃起前挺。"
+ },
+ {
+  "id": "male_solo_standing_post_cum_drip_low_angle",
+  "category": "01_solo_closeup",
+  "subcategory": "男性單人立姿與自慰",
+  "title_zh": "男角單人全裸立姿射後滴精・低角仰視",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "medium shot",
+   "from below",
+   "low angle",
+   "three-quarter view"
+  ],
+  "shared_pose_tags": [
+   "male focus",
+   "penis",
+   "cum on penis",
+   "cumdrip"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "男角主體（全裸立姿射後滴精）",
+    "requires": "male",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "nude",
+     "penis",
+     "erection",
+     "cum on penis",
+     "cumdrip",
+     "looking down",
+     "sweat",
+     "afterglow"
+    ],
+    "natural_en": "Naked muscular man standing tall viewed from a low upward angle after ejaculation, thick semen dripping from his slick penis while looking calmly down."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle 3:4 upward shot of a nude standing man after climax with thick semen dripping from his penis.",
+  "prompt_zh": "低角仰視男角單人射後全裸立姿：沉穩俯視、汗亮身軀、陰莖仍垂滴濃稠精液。"
+ },
+ {
+  "id": "male_solo_standing_holding_penis_post_cum_low",
+  "category": "01_solo_closeup",
+  "subcategory": "男性單人立姿與自慰",
+  "title_zh": "男角單人全裸立姿握莖滴精展示・低角仰視",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "medium shot",
+   "from below",
+   "low angle",
+   "three-quarter view"
+  ],
+  "shared_pose_tags": [
+   "male focus",
+   "holding own penis",
+   "cum on penis",
+   "cumdrip"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "男角主體（全裸立姿握莖展示）",
+    "requires": "male",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "nude",
+     "penis",
+     "holding own penis",
+     "cum on penis",
+     "cumdrip",
+     "looking down",
+     "sweat"
+    ],
+    "natural_en": "Low-angle female-POV view of a nude muscular man standing and gripping his semi-erect semen-covered penis with one hand while looking down."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle 3:4 view of a standing nude man holding his cum-dripping penis while looking down at the viewer.",
+  "prompt_zh": "女方低角仰視男角單人握莖展示：全裸站立單手握持沾滿精液的陰莖、俯視鏡頭。"
+ },
+ {
+  "id": "male_solo_panties_on_face_sniffing_lying",
+  "category": "01_solo_closeup",
+  "subcategory": "男性單人立姿與自慰",
+  "title_zh": "男角單人仰躺臉蒙蕾絲內褲聞味・側面近景",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "side view",
+   "from side"
+  ],
+  "shared_pose_tags": [
+   "male focus",
+   "panties on face",
+   "smelling"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "男角主體（仰躺臉覆蕾絲內褲聞味）",
+    "requires": "male",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "nude",
+     "panties on face",
+     "white panties",
+     "lace panties",
+     "smelling",
+     "sweat",
+     "heavy breathing"
+    ],
+    "natural_en": "Side-angle close-up of a nude muscular man lying supine on a bed with sheer white lace panties draped over his nose and mouth as he inhales deeply, glistening with sweat."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Dim side-angle close-up of a nude man lying on his back with white lace panties draped across his face, sweating heavily.",
+  "prompt_zh": "側面近景男角仰躺蒙內褲聞味：赤裸仰臥床榻、白蕾絲內褲覆蓋口鼻深吸、胸膛大汗。"
+ },
+ {
+  "id": "male_solo_masturbation_pov_down_torso",
+  "category": "01_solo_closeup",
+  "subcategory": "男性單人立姿與自慰",
+  "title_zh": "男角單人第一人稱手握巨根自慰・俯視下身",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "from above",
+   "pov"
+  ],
+  "shared_pose_tags": [
+   "male focus",
+   "male masturbation",
+   "holding own penis",
+   "erection"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "男角主體（俯視手握巨根自慰）",
+    "requires": "male",
+    "center": {
+     "x": 0.5,
+     "y": 0.55
+    },
+    "tags": [
+     "lying",
+     "nude",
+     "male masturbation",
+     "holding own penis",
+     "penis",
+     "erection",
+     "large penis",
+     "veiny penis",
+     "sweat",
+     "head out of frame"
+    ],
+    "natural_en": "First-person downward close-up looking down a nude muscular man's sweaty torso as his hand grips his large veined erect penis."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "First-person top-down close-up of a nude man gripping his large veined erect penis while masturbating.",
+  "prompt_zh": "第一人稱俯視下身男角單人自慰：無頭俯拍汗濕軀幹，單手緊握青筋勃起巨根套弄。"
+ },
+ {
+  "id": "male_solo_bulge_under_clothes_standing_low",
+  "category": "01_solo_closeup",
+  "subcategory": "男性單人立姿與自慰",
+  "title_zh": "男角著裝衣下巨物勃起頂起・低角正面",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "medium shot",
+   "from below",
+   "low angle",
+   "three-quarter view"
+  ],
+  "shared_pose_tags": [
+   "male focus",
+   "erection under clothes",
+   "bulge"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "男角主體（著裝立姿衣下明顯勃起頂起）",
+    "requires": "male",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "erection under clothes",
+     "bulge",
+     "clenched hands",
+     "looking down"
+    ],
+    "natural_en": "Low-angle three-quarter medium shot of a clothed muscular man standing with fists clenched and a massive erection visibly tenting his lower garment."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle 3:4 medium shot of a clothed man standing with a prominent erection tenting his clothes.",
+  "prompt_zh": "低角仰視男角著裝衣下勃起：挺身站立微握雙拳，下身衣物被巨大勃起明顯頂起。"
+ },
+ {
+  "id": "pos_solo_wipe_cum_off_foot_closeup",
+  "category": "01_solo_closeup",
+  "subcategory": "足部與腳底純展示",
+  "title_zh": "指尖抹取足上精液・近景特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "foot focus",
+   "hand focus"
+  ],
+  "shared_pose_tags": [
+   "cum on feet",
+   "cum on leg",
+   "touching own foot",
+   "wiping"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（抬足並以指尖抹取足面與小腿上的濃精）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "sitting",
+     "raised leg",
+     "touching own foot",
+     "cum on feet",
+     "cum on fingers",
+     "head out of frame"
+    ],
+    "natural_en": "Close-up of a seated woman reaching down with one hand to wipe a thick streak of semen from her raised foot and lower shin onto her fingertip."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Close-up focused on a seated woman's fingers scooping glistening semen off her raised foot and shin.",
+  "prompt_zh": "近景局部特寫：坐姿抬腳，以纖細指尖輕抹沾附於足面與小腿的濃稠精液。"
+ },
+ {
+  "id": "pos_solo_inspect_cum_finger_closeup",
+  "category": "01_solo_closeup",
+  "subcategory": "口舌特寫",
+  "title_zh": "舉起沾精手指近唇凝視・猶豫試味近景",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "upper body",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "cum on fingers",
+   "finger to mouth",
+   "looking at hand"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（臉紅舉起沾精食指停在唇邊猶豫凝視）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "upper body",
+     "raised hand",
+     "index finger raised",
+     "cum on fingers",
+     "finger to mouth",
+     "parted lips",
+     "blush",
+     "hesitant",
+     "looking at hand"
+    ],
+    "natural_en": "Blushing woman holding her semen-coated index finger just inches from her parted lips, gazing hesitantly at the glistening droplet before tasting."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Intimate upper-body close-up of a blushing woman raising a cum-stained fingertip near her parted lips, hesitating before licking it.",
+  "prompt_zh": "正面近景：雙頰潮紅舉起沾滿濃精的食指停駐唇畔，微張雙唇猶豫凝視指尖尚未舔入。"
+ },
+ {
+  "id": "pos_solo_lying_closed_legs_belly_touch_topdown",
+  "category": "01_solo_closeup",
+  "subcategory": "撩人全身／半身展示",
+  "title_zh": "仰躺併腿手撫小腹・無頭俯拍局部",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "from above",
+   "top-down",
+   "close-up"
+  ],
+  "shared_pose_tags": [
+   "lying",
+   "on back",
+   "hand on own stomach",
+   "legs together"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（仰躺併腿、單手輕撫微汗小腹）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "legs together",
+     "hand on own stomach",
+     "navel",
+     "sweat",
+     "head out of frame"
+    ],
+    "natural_en": "Top-down headless torso-to-thighs view of a woman lying supine with legs pressed neatly together, resting one hand gently over her glistening lower abdomen."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Top-down headless close-up of a woman lying on her back with legs closed together and one hand resting lightly on her sweaty lower belly.",
+  "prompt_zh": "俯拍無頭局部特寫：仰躺床榻雙腿併攏，單手輕撫泛起薄汗的小腹與腰腹線條。"
+ },
+ {
+  "id": "pos_solo_side_jaw_tongue_out_cum_drip_closeup",
+  "category": "01_solo_closeup",
+  "subcategory": "口舌特寫",
+  "title_zh": "側面下顎極近仰頭吐舌滴精・極近特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "extreme close-up",
+   "side view",
+   "profile"
+  ],
+  "shared_pose_tags": [
+   "mouth focus",
+   "tongue out",
+   "cum in mouth",
+   "cumdrip"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（極近側面仰頭大張口吐舌、長絲濃精垂滴）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "profile",
+     "head tilt",
+     "open mouth",
+     "tongue out",
+     "saliva trail",
+     "cum in mouth",
+     "cum on tongue",
+     "cumdrip",
+     "sweat"
+    ],
+    "natural_en": "Extreme side-profile close-up of a woman's chin and mouth tilted upward, mouth open wide with tongue extended as thick glistening strings of semen and saliva drip from her lips and tongue tip."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Extreme side-profile lower-face close-up with head tilted up, open mouth and extended tongue dripping thick strings of semen and saliva.",
+  "prompt_zh": "側面下顎極近特寫：仰首微抬下巴大張櫻口吐舌，頰緣與舌尖垂掛長絲濃精與唾液。"
+ },
+ {
+  "id": "pos_solo_standing_water_torso_crotch_front_closeup",
+  "category": "01_solo_closeup",
+  "subcategory": "撩人全身／半身展示",
+  "title_zh": "水中直立正面胸腹至下體・無頭水珠局部",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "standing",
+   "in water",
+   "wet",
+   "water drop"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（水中直立無頭正面胸腹至私處特寫）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "wet",
+     "water drop",
+     "wet skin",
+     "navel",
+     "head out of frame"
+    ],
+    "natural_en": "Headless front close-up of a nude woman standing upright in calm water framed from lower chest to upper thighs, water droplets glistening and trickling down her wet skin."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Headless front close-up of a woman standing upright in water from lower bust to groin with shimmering water droplets running down her wet skin.",
+  "prompt_zh": "正面無頭局部特寫：水中直立截取下胸至大腿根部，晶瑩水珠順著微濕肌膚滑落水面。"
+ },
+ {
+  "id": "pos_solo_waist_deep_water_serene_portrait",
+  "category": "01_solo_closeup",
+  "subcategory": "撩人全身／半身展示",
+  "title_zh": "及腰水中直立靜謐沐浴・半身人像",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "medium shot",
+   "upper body",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "standing",
+   "waist-deep water",
+   "wet",
+   "bathing"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（及腰深水中直立、濕髮貼鎖骨靜謐凝視）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.48
+    },
+    "tags": [
+     "standing",
+     "upper body",
+     "wet",
+     "wet hair",
+     "water drop",
+     "collarbone",
+     "serene",
+     "looking at viewer"
+    ],
+    "natural_en": "Upper-body portrait of a woman standing upright in calm waist-deep water, wet strands of hair clinging softly to her shoulders and collarbone, looking forward with a quiet calm gaze."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Front medium upper-body portrait of a woman bathing upright in waist-deep water with wet hair over her shoulders and a calm serene expression.",
+  "prompt_zh": "正面及腰水中半身人像：直立沐浴於靜謐水面，濕髮水珠輕貼肩頸鎖骨，神情溫潤平靜。"
  }
 ]
