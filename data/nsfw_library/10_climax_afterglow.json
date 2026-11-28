@@ -3187,22 +3187,21 @@
    "extreme close-up",
    "hand focus",
    "from above",
-   "out of frame",
-   "cropped torso"
+   "out of frame"
   ],
   "shared_pose_tags": [
    "sheet grab",
    "grabbing sheets",
    "clenched hand",
+   "fingers",
    "bed sheet",
    "bedding background",
+   "white sheets",
    "cum",
    "cum on hand",
    "cum on fingers",
-   "cum on arm",
-   "cum drip",
+   "cumdrip",
    "dripping",
-   "trembling",
    "after sex"
   ],
   "slots": {
@@ -3215,6 +3214,7 @@
     },
     "tags": [
      "hand focus",
+     "single hand",
      "sheet grab",
      "grabbing sheets",
      "clenched hand",
@@ -3223,14 +3223,12 @@
      "cum",
      "cum on hand",
      "cum on fingers",
-     "cum on arm",
-     "cum drip",
+     "cumdrip",
      "dripping",
-     "trembling",
      "after sex",
      "out of frame"
     ],
-    "natural_en": "Artistic 1:1 macro close-up focusing tightly on her trembling hand clutching crumpled white bedsheets, fingers glistening with cum slowly dripping downward."
+    "natural_en": "Artistic 1:1 macro close-up focusing tightly on a single bare hand clutching crumpled white bedsheets, fingers glistening with cum slowly dripping downward."
    }
   },
   "pairing_tags": {
@@ -3245,7 +3243,7 @@
     ]
    }
   },
-  "natural_en": "Square 1:1 cinematic macro close-up of a trembling hand gripping rumpled bedsheets with glistening cum dripping from the fingertips.",
-  "prompt_zh": "1:1 電影感手部大特寫：極近微距聚焦微微顫抖、緊抓皺褶床單的纖手，指尖沾附白濁緩緩垂滴的餘韻意象。"
+  "natural_en": "Square 1:1 cinematic macro close-up of a single bare hand gripping rumpled white bedsheets with glistening cum dripping from the fingertips.",
+  "prompt_zh": "1:1 電影感手部大特寫：極近微距聚焦緊抓皺褶白色床單的纖手，指尖沾附白濁緩緩垂滴的餘韻意象。"
  }
 ]
