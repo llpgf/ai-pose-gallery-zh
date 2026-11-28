@@ -3245,5 +3245,239 @@
   },
   "natural_en": "Square 1:1 cinematic macro close-up of a single bare hand gripping rumpled white bedsheets with glistening cum dripping from the fingertips.",
   "prompt_zh": "1:1 電影感手部大特寫：極近微距聚焦緊抓皺褶白色床單的纖手，指尖沾附白濁緩緩垂滴的餘韻意象。"
+ },
+ {
+  "id": "macro_low_angle_vaginal_only_gaping_cum_overflow",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "極低角單穴（僅陰道）擴張湧精潮吹・仰躺遠景雙胸仰頭",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "from below",
+   "front view",
+   "pussy focus",
+   "crotch focus",
+   "foreshortening"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "gaping",
+   "cum in pussy",
+   "cum overflow",
+   "pussy ejaculation",
+   "spread legs",
+   "lying",
+   "on back",
+   "head back"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（仰躺極低角大開雙腿，僅陰道單穴擴張湧精噴水，遠景見雙胸與後仰頭部）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "spread legs",
+     "after sex",
+     "after vaginal",
+     "pussy focus",
+     "gaping",
+     "cum in pussy",
+     "cum overflow",
+     "cumdrip",
+     "pussy ejaculation",
+     "wet",
+     "sweat",
+     "head back",
+     "breasts"
+    ],
+    "natural_en": "Dramatic worm's-eye low-angle 3:4 foreshortened view from directly between her wide-open supine thighs: ONLY her glistening vaginal entrance visibly gapes, spraying clear fluid and overflowing with thick cum onto the floor while her breasts and thrown-back head recede into the upper background."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Low-angle worm's-eye 3:4 foreshortened aftermath focusing strictly on the single vaginal opening gaping and overflowing with cum and spray between wide-spread supine thighs, with breasts and thrown-back head above.",
+  "prompt_zh": "極低角單穴（僅陰道）擴張湧精潮吹：由仰躺大開的雙腿間超低角仰拍，僅聚焦陰道單穴明顯擴張並噴水湧出濃精，雙胸與後仰頭頸於上方遠景收束。"
+ },
+ {
+  "id": "macro_low_angle_anal_only_gaping_cum_overflow",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "極低角單穴（僅後庭）擴張湧精特寫・1:1 局部微距",
+  "pattern": "solo_or_pov",
+  "default_canvas": "1:1",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "close-up",
+   "macro",
+   "from behind",
+   "ass focus",
+   "anus focus",
+   "head out of frame"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after anal",
+   "anal",
+   "ass",
+   "butt crack",
+   "anus",
+   "gaping anus",
+   "spread anus",
+   "cum in ass",
+   "cum on ass",
+   "cum overflow",
+   "cumdrip"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（極低角後視局部，僅後庭單穴明顯擴張並湧出濃稠白濁）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.5
+    },
+    "tags": [
+     "ass up",
+     "bent over",
+     "ass",
+     "ass focus",
+     "anus focus",
+     "after sex",
+     "after anal",
+     "anus",
+     "gaping anus",
+     "spread anus",
+     "cum in ass",
+     "cum on ass",
+     "cum overflow",
+     "cumdrip",
+     "wet",
+     "sweat"
+    ],
+    "natural_en": "Tight low-angle 1:1 rear macro focusing strictly on her raised buttocks and single gaping anus overflowing with thick glistening cum dripping downward."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Square 1:1 low-angle rear macro of anal-only aftermath: strictly focusing on the single gaping anus overflowing with thick cum between her raised buttocks.",
+  "prompt_zh": "1:1 極低角單穴（僅後庭）擴張湧精特寫：聚焦高翹雙臀正中，僅後庭單穴明顯擴張並溢出濃稠白濁垂滴。"
+ },
+ {
+  "id": "climax_after_allfours_rear_soles_gaping_overflow",
+  "category": "10_climax_afterglow",
+  "subcategory": "事後溢出特寫與癱軟仰躺／雙人相擁平復",
+  "title_zh": "事後跪趴背影不回眸・前景雙腳底與雙穴湧精滴床",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from behind",
+   "straight-on",
+   "rear view",
+   "ass focus",
+   "foreshortening"
+  ],
+  "shared_pose_tags": [
+   "after sex",
+   "after vaginal",
+   "after anal",
+   "all fours",
+   "top-down bottom-up",
+   "ass up",
+   "back",
+   "bare back",
+   "facing away",
+   "soles",
+   "feet",
+   "gaping",
+   "gaping anus",
+   "cum overflow",
+   "cum pool",
+   "on bed",
+   "bed sheet",
+   "steaming body"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（正後方跪趴背影不回眸，前景左右為雙腳底，正中雙穴擴張湧精積成床單水窪）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "all fours",
+     "top-down bottom-up",
+     "on bed",
+     "back",
+     "bare back",
+     "facing away",
+     "ass up",
+     "soles",
+     "feet",
+     "after sex",
+     "after vaginal",
+     "after anal",
+     "gaping",
+     "gaping anus",
+     "cum in pussy",
+     "cum in ass",
+     "cum overflow",
+     "cum pool",
+     "cumdrip",
+     "steaming body",
+     "sweat",
+     "exhausted"
+    ],
+    "natural_en": "Strict symmetrical rear low-angle 3:4 view on a bed facing straight away without looking back: both soles frame the lower foreground on left and right while her steaming glistening raised buttocks center both gaping entrances overflowing with thick cum into a pool on the sheets."
+   }
+  },
+  "pairing_tags": {
+   "solo": {
+    "base": [
+     "solo"
+    ]
+   },
+   "pov": {
+    "base": [
+     "pov"
+    ]
+   }
+  },
+  "natural_en": "Symmetrical rear low-angle 3:4 aftermath on a bed: facing away on all fours with both soles in the lower foreground and both gaping holes overflowing into a steaming pool of cum on the sheets.",
+  "prompt_zh": "正後方對稱低角事後跪趴背影（不回眸）：雙腳底分立前景左右，正中高翹微汗雙臀與雙穴同時擴張湧精、滴落床單匯成冒熱氣白濁水窪。"
  }
 ]

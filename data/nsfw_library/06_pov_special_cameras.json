@@ -3409,5 +3409,148 @@
   },
   "natural_en": "Square 1:1 cropped-head torso macro close-up focusing on a pronounced lower-abdomen stomach bulge during deep penetration with glistening sweat.",
   "prompt_zh": "1:1 胸腹局部頂凸大特寫：無頭截切聚焦微汗緊繃的小腹與肚臍區域，清楚勾勒深插造成的誇張腹凸輪廓。"
+ },
+ {
+  "id": "pov_irrumatio_hands_on_head_deepthroat_above",
+  "category": "06_pov_special_cameras",
+  "subcategory": "第一人稱",
+  "title_zh": "POV 俯視雙手按頭強制深喉（Irrumatio）・翻眼淚光溢精",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov hands",
+   "pov crotch",
+   "from above",
+   "close-up"
+  ],
+  "shared_pose_tags": [
+   "penis",
+   "erection",
+   "veiny penis",
+   "oral",
+   "fellatio",
+   "irrumatio",
+   "deepthroat",
+   "penis in mouth",
+   "hands on another's head",
+   "hand on another's head",
+   "ahegao",
+   "rolling eyes",
+   "tears",
+   "cum in mouth",
+   "cumdrip"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（跪姿被 POV 雙手緊按頭頂強制深含至根部，翻眼流淚溢精）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.54
+    },
+    "tags": [
+     "upper body",
+     "irrumatio",
+     "deepthroat",
+     "fellatio",
+     "penis in mouth",
+     "ahegao",
+     "rolling eyes",
+     "tears",
+     "blush",
+     "cum in mouth",
+     "cumdrip",
+     "saliva",
+     "looking up"
+    ],
+    "natural_en": "Tight overhead first-person POV close-up as both viewer hands grip the sides of her head firmly, pressing her down to the root in intense deepthroat with rolled-up tearful eyes and thick cum overflowing around her lips."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "pov crotch",
+     "hetero",
+     "penis",
+     "fellatio"
+    ]
+   }
+  },
+  "natural_en": "Tight 3:4 first-person overhead POV of forced deepthroat (irrumatio): POV hands grip both sides of her head pushing her down to the base while her tearful eyes roll up and cum overflows from her mouth.",
+  "prompt_zh": "第一人稱俯視雙手按頭強制深喉（Irrumatio POV）：POV 雙手自左右緊扣頭頂下壓含至根部，翻眼含淚、嘴角滿溢濃精。"
+ },
+ {
+  "id": "pov_deepthroat_kneeling_ahegao_above_closeup",
+  "category": "06_pov_special_cameras",
+  "subcategory": "第一人稱",
+  "title_zh": "POV 俯視跪姿深含口交・翻眼淚光貼腿特寫",
+  "pattern": "solo_or_pov",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "pov",
+   "pov crotch",
+   "from above",
+   "close-up"
+  ],
+  "shared_pose_tags": [
+   "penis",
+   "erection",
+   "veiny penis",
+   "oral",
+   "fellatio",
+   "penis in mouth",
+   "cum on penis",
+   "cumdrip",
+   "ahegao",
+   "rolling eyes",
+   "tears",
+   "saliva",
+   "looking up"
+  ],
+  "slots": {
+   "subject": {
+    "label_zh": "主體（跪姿無按頭俯視深含大半截，雙乳貼腿、翻眼流淚溢精）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.52
+    },
+    "tags": [
+     "kneeling",
+     "oral",
+     "fellatio",
+     "penis in mouth",
+     "ahegao",
+     "rolling eyes",
+     "tears",
+     "blush",
+     "sweat",
+     "saliva",
+     "cumdrip",
+     "looking up",
+     "breasts"
+    ],
+    "natural_en": "Tight overhead first-person POV close-up of hands-free kneeling deepthroat: her breasts rest against the viewer's thighs as she swallows deep down the slick shaft with tearful rolled-up eyes and glossy saliva and cum overflowing from her lips."
+   }
+  },
+  "pairing_tags": {
+   "pov": {
+    "base": [
+     "pov",
+     "pov crotch",
+     "hetero",
+     "penis",
+     "fellatio"
+    ]
+   }
+  },
+  "natural_en": "Tight 3:4 overhead POV close-up of kneeling deepthroat without hands on head: her flushed tearful eyes roll upward as she takes the glistening shaft deep with cum spilling around her lips.",
+  "prompt_zh": "第一人稱俯視跪姿深含口交（無按頭）：跪坐於腿間深含大半截，雙乳輕靠大腿、翻眼含淚且嘴角溢流白濁與唾液。"
  }
 ]
