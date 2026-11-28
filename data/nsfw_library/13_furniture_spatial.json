@@ -4222,5 +4222,121 @@
    "glass wall",
    "wet"
   ]
+ },
+ {
+  "id": "desk_mating_press_foreground_soles_front",
+  "category": "13_furniture_spatial",
+  "subcategory": "書桌與餐桌",
+  "title_zh": "課桌折疊壓制＋前景雙腳底・正面全身",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "front view",
+   "from above",
+   "foreshortening",
+   "foot focus"
+  ],
+  "shared_pose_tags": [
+   "mating press",
+   "folded",
+   "sex",
+   "vaginal",
+   "on desk",
+   "school desk",
+   "desk",
+   "legs up",
+   "soles",
+   "abdominal bulge"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰靠木課桌雙腿高折，雙腳底貼近前景兩側並現頂腹）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.44
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on desk",
+     "school desk",
+     "mating press",
+     "folded",
+     "legs up",
+     "spread legs",
+     "feet up",
+     "soles",
+     "toes",
+     "arms up",
+     "abdominal bulge",
+     "blush",
+     "looking at viewer"
+    ],
+    "natural_en": "Lying back across a wooden school desk with arms raised beside her head and both legs folded high toward her shoulders so both soles frame the foreground while showing a smooth abdominal bulge."
+   },
+   "giver": {
+    "label_zh": "施方（站立桌前雙手架腿壓制深入貫入）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.78
+    },
+    "tags": [
+     "mating press",
+     "head out of frame",
+     "hands on another's thighs",
+     "leaning forward",
+     "sex"
+    ],
+    "natural_en": "Positioned at the front foreground edge of the wooden desk with head out of frame, gripping her folded thighs while pressing deeply into her."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Front foreshortened 3:4 view of a mating press atop a wooden school desk: the standing partner folds her legs high so both soles loom in the foreground.",
+  "prompt_zh": "正面強透視課桌折疊壓制：受方仰靠木質課桌、雙腿被站立桌前的施方高高折壓，雙腳底於前景呈現並帶明顯頂腹。"
  }
 ]

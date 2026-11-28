@@ -6236,5 +6236,788 @@
   },
   "natural_en": "Side full-body view of a fireman's shoulder carry: the partner stands tall carrying the blushing woman draped over one shoulder with one arm securing her thighs.",
   "prompt_zh": "側面全身單肩扛起抱舉：施與方直立單臂扣穩大腿將承受方輕鬆扛上肩頭，承受方半倒掛垂懸並羞紅驚訝。"
+ },
+ {
+  "id": "pos_mating_press_foreground_soles_pov",
+  "category": "04_main_positions",
+  "subcategory": "高辨識度進階幾何",
+  "title_zh": "折疊壓制正面強透視・雙腳底立於前景胸側",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "front view",
+   "from above",
+   "foreshortening",
+   "foot focus"
+  ],
+  "shared_pose_tags": [
+   "mating press",
+   "sex",
+   "vaginal",
+   "penetration",
+   "legs up",
+   "soles",
+   "feet up",
+   "spread legs",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺雙腿深折高舉，雙腳底貼近前景兩側）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.44
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "mating press",
+     "legs up",
+     "spread legs",
+     "feet up",
+     "soles",
+     "toes",
+     "spread toes",
+     "arms up",
+     "blush",
+     "looking at viewer"
+    ],
+    "natural_en": "Lying on her back on the bed folded deeply in a mating press with both thighs pushed back toward her chest and arms resting up beside her head so both soles loom large in the foreground framing her flushed face."
+   },
+   "giver": {
+    "label_zh": "施方（上方壓制雙手按穩大腿深入貫入）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.78
+    },
+    "tags": [
+     "mating press",
+     "hands on thighs",
+     "leaning forward",
+     "kneeling",
+     "sex",
+     "penetration"
+    ],
+    "natural_en": "Kneeling over her, pressing both hands firmly on her folded thighs while thrusting deeply downward."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Front foreshortened mating press on the bed: the woman's folded legs lift both soles prominently into the foreground flanking her face as the partner presses down deeply.",
+  "prompt_zh": "正面強透視折疊壓制＋前景雙腳底：受方仰躺床面雙腿深折高抬，雙腳底於前景胸臉兩側大比例呈現，施方由下方深壓貫入。"
+ },
+ {
+  "id": "pos_prone_bone_foreground_soles_rear",
+  "category": "04_main_positions",
+  "subcategory": "後背位",
+  "title_zh": "趴姿後入・前景雙腳底強透視後視",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from behind",
+   "from below",
+   "foreshortening",
+   "foot focus",
+   "ass focus"
+  ],
+  "shared_pose_tags": [
+   "prone bone",
+   "sex from behind",
+   "sex",
+   "vaginal",
+   "penetration",
+   "on stomach",
+   "lying on person",
+   "soles",
+   "feet",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（平趴床面雙腿伸直，前景雙腳底直面鏡頭）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.58
+    },
+    "tags": [
+     "lying",
+     "on stomach",
+     "on bed",
+     "face down",
+     "pinned",
+     "prone bone",
+     "soles",
+     "feet",
+     "toes",
+     "spread toes"
+    ],
+    "natural_en": "Lying flat face down on her stomach on the bed pinned underneath during prone bone penetration, with both legs extended toward the camera so both soles and splayed toes fill the lower foreground."
+   },
+   "giver": {
+    "label_zh": "施方（伏壓於其背上由後方深入抽插）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.4
+    },
+    "tags": [
+     "prone bone",
+     "lying on person",
+     "on top",
+     "sex",
+     "penetration",
+     "holding hips"
+    ],
+    "natural_en": "Lying on top of her back from behind in a single unified pose, gripping her hips while thrusting deeply into her prone body."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Low rear foreshortened view of prone bone sex on the bed: both of the woman's soles and splayed toes fill the lower foreground while the partner presses atop her back.",
+  "prompt_zh": "低角後視強透視趴姿後入：受方平趴床面、雙腳掌與張開腳趾佔據前景下方大比例，施方覆壓其背深入後入。"
+ },
+ {
+  "id": "pos_side_curled_rear_foreground_soles",
+  "category": "04_main_positions",
+  "subcategory": "側臥與坐位",
+  "title_zh": "側臥蜷縮後入・前景雙腳底併向鏡頭",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from below",
+   "three-quarter view",
+   "foreshortening"
+  ],
+  "shared_pose_tags": [
+   "lying",
+   "on side",
+   "curled up",
+   "sex from behind",
+   "sex",
+   "vaginal",
+   "soles",
+   "feet",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（側臥蜷縮抱膝，併攏雙腳底伸向前景）",
+    "requires": "female",
+    "center": {
+     "x": 0.44,
+     "y": 0.5
+    },
+    "tags": [
+     "lying",
+     "on side",
+     "on bed",
+     "curled up",
+     "knees to chest",
+     "soles",
+     "feet",
+     "toes",
+     "looking back",
+     "blush"
+    ],
+    "natural_en": "Lying curled tightly on her side on the bed with knees drawn up toward her chest and both soles turned directly toward the lower foreground as she glances back."
+   },
+   "giver": {
+    "label_zh": "施方（側臥緊貼於身後環抱貫入）",
+    "requires": "any",
+    "center": {
+     "x": 0.62,
+     "y": 0.46
+    },
+    "tags": [
+     "lying",
+     "on side",
+     "on bed",
+     "hug from behind",
+     "sex",
+     "holding hips"
+    ],
+    "natural_en": "Lying closely behind her curled back on the bed, wrapping one arm around her torso while thrusting from behind."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Foreshortened three-quarter view of curled side-lying rear sex on the bed: her knees are tucked up in a fetal curl with both soles presented prominently in the lower foreground.",
+  "prompt_zh": "斜角強透視側臥蜷縮後入：受方側躺床面蜷膝收腿，雙腳底併向前景鏡頭，施方由身後側臥緊貼環抱後入。"
+ },
+ {
+  "id": "pos_standing_split_single_leg_sex_front",
+  "category": "04_main_positions",
+  "subcategory": "立位與抱起",
+  "title_zh": "站立單腿 180° 一字馬立交・正面全身",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "front view"
+  ],
+  "shared_pose_tags": [
+   "standing split",
+   "vertical splits",
+   "standing sex",
+   "sex from behind",
+   "sex",
+   "vaginal",
+   "leg up",
+   "abdominal bulge"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（單腿站立支撐，另一腿被高舉過頭成垂直一字馬）",
+    "requires": "female",
+    "center": {
+     "x": 0.48,
+     "y": 0.5
+    },
+    "tags": [
+     "standing",
+     "standing on one leg",
+     "standing split",
+     "leg up",
+     "abdominal bulge",
+     "open mouth",
+     "blush",
+     "looking at viewer"
+    ],
+    "natural_en": "Balancing on one straight standing leg facing forward while her other leg is hoisted straight up vertically beside her head into a dramatic 180-degree standing split during rear-entry penetration, with a smooth visible abdominal bulge."
+   },
+   "giver": {
+    "label_zh": "施方（站於側後方單手高舉其腳踝扶腰貫入）",
+    "requires": "any",
+    "center": {
+     "x": 0.56,
+     "y": 0.48
+    },
+    "tags": [
+     "standing",
+     "standing sex",
+     "sex from behind",
+     "holding another's leg",
+     "ankle grab",
+     "hand on another's waist",
+     "sex"
+    ],
+    "natural_en": "Standing closely behind her, gripping her lifted ankle high overhead with one hand to hold her leg in a vertical split and bracing her waist with the other hand while thrusting from behind."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Full-body front view of standing split sex: balancing on one leg while the partner hoists her other leg vertically past her head in a 180-degree split during deep standing penetration.",
+  "prompt_zh": "正面全身站立一字馬立交：受方單腳撐地、另一條腿被施方單手垂直拉舉過頭呈 180° 一字馬，深度站立貫入並現小腹頂凸。"
+ },
+ {
+  "id": "pos_wheelbarrow_suspended_m_legs_rear",
+  "category": "04_main_positions",
+  "subcategory": "高辨識度進階幾何",
+  "title_zh": "高跪手推車・懸空抬腿 M 字後入",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "three-quarter view",
+   "from above"
+  ],
+  "shared_pose_tags": [
+   "wheelbarrow position",
+   "doggystyle",
+   "sex from behind",
+   "sex",
+   "vaginal",
+   "holding both legs",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（雙手前撐床面，雙腿被懸空架高拉成 M 字）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.56
+    },
+    "tags": [
+     "wheelbarrow position",
+     "doggystyle",
+     "arm support",
+     "bent over",
+     "ass up",
+     "arched back",
+     "spread legs",
+     "on bed",
+     "looking at viewer",
+     "blush"
+    ],
+    "natural_en": "Facing downward while bracing her palms forward on the bed as her hips and both legs are lifted completely off the mattress in a suspended M-shaped wheelbarrow rear-entry position, looking forward with flushed cheeks."
+   },
+   "giver": {
+    "label_zh": "施方（高跪於後方雙手架提大腿彎後入）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.36
+    },
+    "tags": [
+     "kneeling",
+     "wheelbarrow position",
+     "doggystyle",
+     "holding both legs",
+     "holding legs up",
+     "leaning forward",
+     "sex"
+    ],
+    "natural_en": "High-kneeling behind her on the bed, lifting both of her bent legs wide apart under the thighs in a wheelbarrow hold while thrusting deeply from behind."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "High-angle front full-body view of wheelbarrow rear sex on the bed: the woman supports her upper body on her hands while the high-kneeling partner behind lifts both of her legs suspended wide in an M-shape.",
+  "prompt_zh": "高角正面全身手推車後入：受方雙手撐床、下半身懸空被後方高跪施方雙手架高拉開呈 M 字腿深插後入。"
+ },
+ {
+  "id": "pos_cowgirl_leaning_back_stomach_bulge_side",
+  "category": "04_main_positions",
+  "subcategory": "騎乘位",
+  "title_zh": "後仰反撐極度腹凸騎乘・側面全身",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "left",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "side view",
+   "from side"
+  ],
+  "shared_pose_tags": [
+   "cowgirl position",
+   "girl on top",
+   "sex",
+   "vaginal",
+   "leaning back",
+   "arched back",
+   "abdominal bulge",
+   "on bed"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（上位騎乘雙手向後反撐大幅仰背，小腹頂出明顯凸起）",
+    "requires": "female",
+    "center": {
+     "x": 0.48,
+     "y": 0.44
+    },
+    "tags": [
+     "cowgirl position",
+     "girl on top",
+     "straddling",
+     "leaning back",
+     "arched back",
+     "head back",
+     "arm support",
+     "hands on another's thighs",
+     "abdominal bulge",
+     "open mouth",
+     "eyes closed",
+     "blush"
+    ],
+    "natural_en": "Straddling atop her partner in cowgirl position, leaning far backward supported by both arms behind her with head thrown back and spine deeply arched so a smooth prominent abdominal bulge shows clearly in profile."
+   },
+   "giver": {
+    "label_zh": "施方（仰躺床面向上頂入，雙手扶握臀腰）",
+    "requires": "any",
+    "center": {
+     "x": 0.54,
+     "y": 0.72
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "hands on another's hips",
+     "sex"
+    ],
+    "natural_en": "Lying flat on his back on the bed beneath her, gripping her hips as he thrusts deeply upward."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Side full-body view of leaning-back cowgirl sex: the woman leans far backward supported by both arms with an extreme back arch and prominent stomach bulge in profile.",
+  "prompt_zh": "側面全身後仰反撐騎乘：受方跨坐上位雙手向後反撐、大幅仰頭反弓，側面清晰呈現深插導致的明顯小腹頂凸輪廓。"
+ },
+ {
+  "id": "pos_mating_press_overhead_male_back_above",
+  "category": "04_main_positions",
+  "subcategory": "高辨識度進階幾何",
+  "title_zh": "折疊壓制・男方背後高空垂直俯拍",
+  "pattern": "geometry_dispatch",
+  "default_canvas": "3:4",
+  "default_facing": "front",
+  "mirrorable": true,
+  "camera_tags": [
+   "full body",
+   "from above",
+   "from behind",
+   "rear view",
+   "bird's-eye view"
+  ],
+  "shared_pose_tags": [
+   "mating press",
+   "folded",
+   "male on top",
+   "sex",
+   "vaginal",
+   "legs up",
+   "on bed",
+   "back",
+   "back focus"
+  ],
+  "slots": {
+   "receiver": {
+    "label_zh": "受方（仰躺床底，雙腿高豎跨於上方施方雙肩兩側）",
+    "requires": "female",
+    "center": {
+     "x": 0.5,
+     "y": 0.42
+    },
+    "tags": [
+     "lying",
+     "on back",
+     "on bed",
+     "mating press",
+     "folded",
+     "legs up",
+     "spread legs",
+     "feet up",
+     "arms up",
+     "blush",
+     "head back"
+    ],
+    "natural_en": "Pinned on her back on the bed beneath her partner with both legs folded high up alongside his shoulders and feet visible beside his back."
+   },
+   "giver": {
+    "label_zh": "施方（背對高空鏡頭俯壓於上，雙手撐床深入貫入）",
+    "requires": "any",
+    "center": {
+     "x": 0.5,
+     "y": 0.56
+    },
+    "tags": [
+     "mating press",
+     "male on top",
+     "facing away",
+     "back",
+     "back muscles",
+     "back focus",
+     "kneeling",
+     "leaning forward",
+     "looking down",
+     "sex"
+    ],
+    "natural_en": "Seen from directly above and behind his back facing away from the camera as he presses heavily down over her folded body on the bed, bracketing her legs against his shoulders."
+   }
+  },
+  "pairing_tags": {
+   "female_male": {
+    "base": [
+     "hetero",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "penis"
+    ]
+   },
+   "female_futa": {
+    "base": [
+     "yuri",
+     "futanari",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "futanari",
+     "penis"
+    ]
+   },
+   "female_female": {
+    "base": [
+     "yuri",
+     "sex",
+     "vaginal"
+    ],
+    "giver": [
+     "strap-on"
+    ]
+   },
+   "female_other": {
+    "base": [
+     "sex",
+     "vaginal",
+     "interspecies"
+    ],
+    "giver": []
+   }
+  },
+  "natural_en": "Top-down vertical overhead view from behind the giver's back during mating press on the bed, with the receiver's folded legs lifted high on both sides of his shoulders.",
+  "prompt_zh": "高空垂直俯拍男背折疊壓制：由施方背部正上方俯視，受方仰躺於下、雙腿高豎架在施方雙肩兩側承受深壓貫入。"
  }
 ]
